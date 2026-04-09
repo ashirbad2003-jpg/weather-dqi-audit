@@ -1,0 +1,257 @@
+'S Gravenjansdijk	records=1293 anomalies=63 rate=4.87% status=MEDIUM_ANOMALY avg_temp=14.26 avg_humidity=73.47 avg_precip=0.08 avg_pm25=19.50 avg_wind=11.10
+'S Gravenjansdyk	records=36 anomalies=3 rate=8.33% status=MEDIUM_ANOMALY avg_temp=16.34 avg_humidity=67.58 avg_precip=0.16 avg_pm25=2.46 avg_wind=13.53
+'S Gravenstaffel	records=48 anomalies=0 rate=0.00% status=NORMAL avg_temp=15.56 avg_humidity=80.50 avg_precip=0.19 avg_pm25=4.68 avg_wind=10.65
+'S-Gravenbrakel	records=447 anomalies=27 rate=6.04% status=MEDIUM_ANOMALY avg_temp=8.02 avg_humidity=87.15 avg_precip=0.09 avg_pm25=11.40 avg_wind=11.27
+-Kingdom	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=29.70 avg_humidity=24.00 avg_precip=0.00 avg_pm25=3.00 avg_wind=11.40
+Abu Dhabi	records=2064 anomalies=45 rate=2.18% status=NORMAL avg_temp=32.22 avg_humidity=43.90 avg_precip=0.00 avg_pm25=58.09 avg_wind=9.74
+Abuja	records=2064 anomalies=108 rate=5.23% status=MEDIUM_ANOMALY avg_temp=27.30 avg_humidity=66.63 avg_precip=0.12 avg_pm25=51.74 avg_wind=4.41
+Accra	records=2067 anomalies=102 rate=4.93% status=MEDIUM_ANOMALY avg_temp=27.37 avg_humidity=81.83 avg_precip=0.07 avg_pm25=17.73 avg_wind=8.70
+Addis Ababa	records=2058 anomalies=90 rate=4.37% status=MEDIUM_ANOMALY avg_temp=19.66 avg_humidity=52.14 avg_precip=0.24 avg_pm25=26.70 avg_wind=6.65
+Addis Abeba	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=19.80 avg_humidity=59.00 avg_precip=0.34 avg_pm25=7.10 avg_wind=2.20
+Adkip	records=60 anomalies=6 rate=10.00% status=MEDIUM_ANOMALY avg_temp=26.51 avg_humidity=89.65 avg_precip=0.18 avg_pm25=0.52 avg_wind=3.89
+Aguaray	records=528 anomalies=45 rate=8.52% status=MEDIUM_ANOMALY avg_temp=23.28 avg_humidity=68.37 avg_precip=0.12 avg_pm25=10.14 avg_wind=4.43
+Airai	records=1113 anomalies=33 rate=2.96% status=NORMAL avg_temp=28.06 avg_humidity=83.02 avg_precip=0.42 avg_pm25=7.12 avg_wind=11.19
+Algiers	records=2058 anomalies=96 rate=4.66% status=MEDIUM_ANOMALY avg_temp=20.48 avg_humidity=63.74 avg_precip=0.05 avg_pm25=18.81 avg_wind=8.17
+Amman	records=2067 anomalies=69 rate=3.34% status=MEDIUM_ANOMALY avg_temp=21.57 avg_humidity=41.95 avg_precip=0.02 avg_pm25=22.57 avg_wind=10.68
+Amsterdam	records=2064 anomalies=111 rate=5.38% status=MEDIUM_ANOMALY avg_temp=12.33 avg_humidity=77.44 avg_precip=0.10 avg_pm25=17.56 avg_wind=10.18
+Andorra La Vella	records=2064 anomalies=102 rate=4.94% status=MEDIUM_ANOMALY avg_temp=8.89 avg_humidity=64.31 avg_precip=0.13 avg_pm25=4.69 avg_wind=5.28
+Ankara	records=2058 anomalies=99 rate=4.81% status=MEDIUM_ANOMALY avg_temp=15.83 avg_humidity=53.88 avg_precip=0.04 avg_pm25=26.39 avg_wind=6.76
+Antananarivo	records=2064 anomalies=105 rate=5.09% status=MEDIUM_ANOMALY avg_temp=23.99 avg_humidity=53.00 avg_precip=0.08 avg_pm25=7.17 avg_wind=7.71
+Apia	records=2046 anomalies=72 rate=3.52% status=MEDIUM_ANOMALY avg_temp=25.95 avg_humidity=87.04 avg_precip=0.32 avg_pm25=5.70 avg_wind=13.13
+Ar Riyadh	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=45.00 avg_humidity=7.00 avg_precip=0.00 avg_pm25=22.30 avg_wind=15.20
+Ashgabat	records=2061 anomalies=69 rate=3.35% status=MEDIUM_ANOMALY avg_temp=22.36 avg_humidity=40.93 avg_precip=0.02 avg_pm25=19.86 avg_wind=7.95
+Asmara	records=2067 anomalies=87 rate=4.21% status=MEDIUM_ANOMALY avg_temp=21.10 avg_humidity=44.93 avg_precip=0.11 avg_pm25=19.82 avg_wind=6.57
+Astana	records=2061 anomalies=87 rate=4.22% status=MEDIUM_ANOMALY avg_temp=7.95 avg_humidity=62.38 avg_precip=0.06 avg_pm25=12.10 avg_wind=11.18
+Asuncion	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=13.70 avg_humidity=77.00 avg_precip=0.00 avg_pm25=3.40 avg_wind=6.70
+Athens	records=2052 anomalies=63 rate=3.07% status=MEDIUM_ANOMALY avg_temp=21.83 avg_humidity=50.25 avg_precip=0.04 avg_pm25=18.35 avg_wind=9.21
+Aurora	records=1269 anomalies=57 rate=4.49% status=MEDIUM_ANOMALY avg_temp=19.72 avg_humidity=66.43 avg_precip=0.09 avg_pm25=14.25 avg_wind=5.96
+Bafoussam	records=54 anomalies=0 rate=0.00% status=NORMAL avg_temp=22.68 avg_humidity=77.72 avg_precip=0.66 avg_pm25=1.77 avg_wind=3.71
+Baghdad	records=2067 anomalies=78 rate=3.77% status=MEDIUM_ANOMALY avg_temp=28.63 avg_humidity=30.90 avg_precip=0.02 avg_pm25=37.05 avg_wind=11.11
+Baku	records=2061 anomalies=75 rate=3.64% status=MEDIUM_ANOMALY avg_temp=18.74 avg_humidity=61.62 avg_precip=0.04 avg_pm25=17.37 avg_wind=14.40
+Bali	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=29.30 avg_humidity=70.00 avg_precip=0.00 avg_pm25=7.70 avg_wind=4.00
+Bamako	records=2061 anomalies=99 rate=4.80% status=MEDIUM_ANOMALY avg_temp=26.53 avg_humidity=55.54 avg_precip=0.08 avg_pm25=29.57 avg_wind=6.68
+Ban Lom	records=1233 anomalies=54 rate=4.38% status=MEDIUM_ANOMALY avg_temp=26.34 avg_humidity=71.58 avg_precip=0.29 avg_pm25=32.80 avg_wind=3.73
+Bandar Seri Begawan	records=2058 anomalies=99 rate=4.81% status=MEDIUM_ANOMALY avg_temp=29.32 avg_humidity=77.11 avg_precip=0.50 avg_pm25=14.79 avg_wind=5.71
+Bangkok	records=2061 anomalies=126 rate=6.11% status=MEDIUM_ANOMALY avg_temp=31.64 avg_humidity=57.24 avg_precip=0.13 avg_pm25=34.57 avg_wind=7.96
+Bangui	records=2061 anomalies=105 rate=5.09% status=MEDIUM_ANOMALY avg_temp=28.05 avg_humidity=69.86 avg_precip=0.12 avg_pm25=27.96 avg_wind=3.86
+Banjul	records=2055 anomalies=69 rate=3.36% status=MEDIUM_ANOMALY avg_temp=24.97 avg_humidity=69.33 avg_precip=0.13 avg_pm25=32.00 avg_wind=10.24
+Basseterre	records=2058 anomalies=96 rate=4.66% status=MEDIUM_ANOMALY avg_temp=26.65 avg_humidity=79.58 avg_precip=0.14 avg_pm25=8.99 avg_wind=15.99
+Beijing	records=2055 anomalies=75 rate=3.65% status=MEDIUM_ANOMALY avg_temp=17.63 avg_humidity=41.95 avg_precip=0.06 avg_pm25=134.43 avg_wind=6.40
+Beijing Shi	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=24.30 avg_humidity=75.00 avg_precip=0.00 avg_pm25=54.90 avg_wind=2.90
+Beirut	records=2064 anomalies=90 rate=4.36% status=MEDIUM_ANOMALY avg_temp=23.29 avg_humidity=59.41 avg_precip=0.06 avg_pm25=29.57 avg_wind=8.74
+Belgrade	records=2064 anomalies=84 rate=4.07% status=MEDIUM_ANOMALY avg_temp=15.31 avg_humidity=63.48 avg_precip=0.10 avg_pm25=26.23 avg_wind=7.63
+Belmopan	records=2049 anomalies=153 rate=7.47% status=MEDIUM_ANOMALY avg_temp=22.10 avg_humidity=95.89 avg_precip=0.13 avg_pm25=6.99 avg_wind=2.71
+Berlin	records=2064 anomalies=99 rate=4.80% status=MEDIUM_ANOMALY avg_temp=11.80 avg_humidity=71.48 avg_precip=0.06 avg_pm25=15.96 avg_wind=8.86
+Bern	records=2067 anomalies=90 rate=4.35% status=MEDIUM_ANOMALY avg_temp=10.96 avg_humidity=77.82 avg_precip=0.16 avg_pm25=12.74 avg_wind=4.29
+Bishkek	records=2061 anomalies=81 rate=3.93% status=MEDIUM_ANOMALY avg_temp=16.76 avg_humidity=45.01 avg_precip=0.10 avg_pm25=20.64 avg_wind=6.16
+Bissau	records=2061 anomalies=87 rate=4.22% status=MEDIUM_ANOMALY avg_temp=25.35 avg_humidity=73.28 avg_precip=0.28 avg_pm25=35.09 avg_wind=7.54
+Bogot	records=2058 anomalies=96 rate=4.66% status=MEDIUM_ANOMALY avg_temp=16.36 avg_humidity=55.01 avg_precip=0.08 avg_pm25=16.66 avg_wind=7.20
+Bogota	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=13.50 avg_humidity=80.00 avg_precip=0.02 avg_pm25=13.60 avg_wind=2.90
+Bras	records=2049 anomalies=129 rate=6.30% status=MEDIUM_ANOMALY avg_temp=24.23 avg_humidity=83.01 avg_precip=0.20 avg_pm25=10.04 avg_wind=2.72
+Bratislava	records=2064 anomalies=57 rate=2.76% status=NORMAL avg_temp=13.18 avg_humidity=67.66 avg_precip=0.07 avg_pm25=18.15 avg_wind=8.92
+Brazzaville	records=2058 anomalies=105 rate=5.10% status=MEDIUM_ANOMALY avg_temp=26.64 avg_humidity=73.56 avg_precip=0.14 avg_pm25=25.44 avg_wind=4.19
+Bridgetown	records=2058 anomalies=84 rate=4.08% status=MEDIUM_ANOMALY avg_temp=27.07 avg_humidity=79.58 avg_precip=0.15 avg_pm25=11.28 avg_wind=15.18
+Brussels	records=2061 anomalies=102 rate=4.95% status=MEDIUM_ANOMALY avg_temp=12.17 avg_humidity=77.02 avg_precip=0.08 avg_pm25=18.63 avg_wind=9.73
+Bucharest	records=2058 anomalies=99 rate=4.81% status=MEDIUM_ANOMALY avg_temp=15.50 avg_humidity=62.07 avg_precip=0.05 avg_pm25=27.06 avg_wind=7.40
+Budapest	records=2064 anomalies=93 rate=4.51% status=MEDIUM_ANOMALY avg_temp=13.95 avg_humidity=64.26 avg_precip=0.06 avg_pm25=20.26 avg_wind=6.85
+Buenos Aires	records=2058 anomalies=99 rate=4.81% status=MEDIUM_ANOMALY avg_temp=15.03 avg_humidity=82.05 avg_precip=0.09 avg_pm25=11.37 avg_wind=6.49
+Bujumbura	records=2067 anomalies=57 rate=2.76% status=NORMAL avg_temp=25.88 avg_humidity=61.64 avg_precip=0.19 avg_pm25=26.11 avg_wind=7.41
+Cairo	records=2058 anomalies=51 rate=2.48% status=NORMAL avg_temp=25.53 avg_humidity=43.18 avg_precip=0.00 avg_pm25=34.89 avg_wind=9.07
+Canberra	records=2061 anomalies=51 rate=2.47% status=NORMAL avg_temp=15.27 avg_humidity=64.71 avg_precip=0.11 avg_pm25=7.73 avg_wind=7.60
+Caracas	records=2058 anomalies=93 rate=4.52% status=MEDIUM_ANOMALY avg_temp=22.99 avg_humidity=82.50 avg_precip=0.08 avg_pm25=15.41 avg_wind=3.35
+Carreria	records=69 anomalies=3 rate=4.35% status=MEDIUM_ANOMALY avg_temp=26.99 avg_humidity=51.91 avg_precip=0.09 avg_pm25=10.84 avg_wind=6.63
+Castries	records=2061 anomalies=96 rate=4.66% status=MEDIUM_ANOMALY avg_temp=27.05 avg_humidity=80.42 avg_precip=0.15 avg_pm25=11.44 avg_wind=12.78
+Chi Chi Khvar	records=1950 anomalies=81 rate=4.15% status=MEDIUM_ANOMALY avg_temp=16.62 avg_humidity=33.35 avg_precip=0.04 avg_pm25=21.24 avg_wind=8.63
+Chi-Chi-Erh	records=108 anomalies=12 rate=11.11% status=HIGH_ANOMALY avg_temp=-15.03 avg_humidity=82.11 avg_precip=0.02 avg_pm25=9.94 avg_wind=2.92
+City Of San Marino	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=31.30 avg_humidity=55.00 avg_precip=0.00 avg_pm25=14.30 avg_wind=11.90
+Colombo	records=2064 anomalies=81 rate=3.92% status=MEDIUM_ANOMALY avg_temp=30.15 avg_humidity=72.89 avg_precip=0.42 avg_pm25=26.28 avg_wind=10.91
+Conakry	records=2061 anomalies=117 rate=5.68% status=MEDIUM_ANOMALY avg_temp=26.22 avg_humidity=83.80 avg_precip=0.39 avg_pm25=26.54 avg_wind=7.00
+Copenhagen	records=2061 anomalies=84 rate=4.08% status=MEDIUM_ANOMALY avg_temp=10.87 avg_humidity=76.80 avg_precip=0.09 avg_pm25=11.07 avg_wind=12.37
+Costa Rica	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=23.10 avg_humidity=95.00 avg_precip=0.05 avg_pm25=0.50 avg_wind=4.00
+Dakar	records=2067 anomalies=117 rate=5.66% status=MEDIUM_ANOMALY avg_temp=24.56 avg_humidity=76.73 avg_precip=0.04 avg_pm25=34.57 avg_wind=13.13
+Damascus	records=2061 anomalies=63 rate=3.06% status=MEDIUM_ANOMALY avg_temp=21.72 avg_humidity=40.80 avg_precip=0.02 avg_pm25=24.11 avg_wind=8.56
+Dhaka	records=2061 anomalies=60 rate=2.91% status=NORMAL avg_temp=30.83 avg_humidity=46.83 avg_precip=0.31 avg_pm25=72.15 avg_wind=8.37
+Dhidhdhoo	records=1950 anomalies=108 rate=5.54% status=MEDIUM_ANOMALY avg_temp=27.83 avg_humidity=74.67 avg_precip=0.22 avg_pm25=13.81 avg_wind=11.76
+Dili	records=2055 anomalies=81 rate=3.94% status=MEDIUM_ANOMALY avg_temp=26.40 avg_humidity=75.62 avg_precip=0.39 avg_pm25=7.58 avg_wind=6.04
+Djibouti	records=2058 anomalies=48 rate=2.33% status=NORMAL avg_temp=31.38 avg_humidity=55.44 avg_precip=0.03 avg_pm25=28.97 avg_wind=10.33
+Dodoma	records=2061 anomalies=63 rate=3.06% status=MEDIUM_ANOMALY avg_temp=25.48 avg_humidity=52.41 avg_precip=0.08 avg_pm25=9.34 avg_wind=7.34
+Doha	records=2058 anomalies=39 rate=1.90% status=NORMAL avg_temp=32.16 avg_humidity=41.52 avg_precip=0.00 avg_pm25=57.41 avg_wind=11.53
+Douala	records=687 anomalies=54 rate=7.86% status=MEDIUM_ANOMALY avg_temp=25.51 avg_humidity=95.89 avg_precip=0.20 avg_pm25=22.70 avg_wind=2.60
+Dublin	records=2058 anomalies=111 rate=5.39% status=MEDIUM_ANOMALY avg_temp=10.94 avg_humidity=81.30 avg_precip=0.14 avg_pm25=9.54 avg_wind=10.15
+Dushanbe	records=2058 anomalies=93 rate=4.52% status=MEDIUM_ANOMALY avg_temp=22.30 avg_humidity=37.60 avg_precip=0.06 avg_pm25=18.49 avg_wind=4.46
+Felidhoo	records=102 anomalies=3 rate=2.94% status=NORMAL avg_temp=28.80 avg_humidity=78.94 avg_precip=0.33 avg_pm25=1.89 avg_wind=16.95
+Freetown	records=2055 anomalies=96 rate=4.67% status=MEDIUM_ANOMALY avg_temp=25.95 avg_humidity=81.43 avg_precip=0.48 avg_pm25=24.46 avg_wind=5.42
+Funafuti	records=2064 anomalies=60 rate=2.91% status=NORMAL avg_temp=28.75 avg_humidity=81.56 avg_precip=0.37 avg_pm25=6.11 avg_wind=11.49
+Gaborone	records=2064 anomalies=72 rate=3.49% status=MEDIUM_ANOMALY avg_temp=23.31 avg_humidity=49.90 avg_precip=0.05 avg_pm25=15.29 avg_wind=8.25
+Garrapata	records=90 anomalies=9 rate=10.00% status=MEDIUM_ANOMALY avg_temp=22.19 avg_humidity=66.17 avg_precip=0.09 avg_pm25=10.72 avg_wind=4.64
+Georgetown	records=2052 anomalies=108 rate=5.26% status=MEDIUM_ANOMALY avg_temp=24.59 avg_humidity=94.67 avg_precip=0.45 avg_pm25=10.94 avg_wind=5.66
+Grenada	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=28.20 avg_humidity=73.00 avg_precip=0.00 avg_pm25=6.10 avg_wind=3.10
+Grindavik	records=108 anomalies=6 rate=5.56% status=MEDIUM_ANOMALY avg_temp=8.89 avg_humidity=74.83 avg_precip=0.15 avg_pm25=0.93 avg_wind=18.87
+Guatemala City	records=2043 anomalies=147 rate=7.20% status=MEDIUM_ANOMALY avg_temp=17.10 avg_humidity=90.18 avg_precip=0.08 avg_pm25=30.06 avg_wind=3.85
+Hanoi	records=2061 anomalies=60 rate=2.91% status=NORMAL avg_temp=27.10 avg_humidity=67.68 avg_precip=0.28 avg_pm25=77.40 avg_wind=6.93
+Harare	records=2058 anomalies=105 rate=5.10% status=MEDIUM_ANOMALY avg_temp=23.20 avg_humidity=43.12 avg_precip=0.10 avg_pm25=17.89 avg_wind=6.93
+Havana	records=2052 anomalies=114 rate=5.56% status=MEDIUM_ANOMALY avg_temp=22.59 avg_humidity=91.91 avg_precip=0.03 avg_pm25=10.07 avg_wind=9.51
+Helsinki	records=2064 anomalies=114 rate=5.52% status=MEDIUM_ANOMALY avg_temp=8.61 avg_humidity=75.66 avg_precip=0.08 avg_pm25=7.50 avg_wind=10.56
+Ho Chi Minh City	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=26.60 avg_humidity=86.00 avg_precip=0.10 avg_pm25=104.60 avg_wind=4.00
+Honiara	records=2064 anomalies=75 rate=3.63% status=MEDIUM_ANOMALY avg_temp=27.19 avg_humidity=85.69 avg_precip=0.42 avg_pm25=2.91 avg_wind=5.70
+Islamabad	records=2058 anomalies=81 rate=3.94% status=MEDIUM_ANOMALY avg_temp=28.02 avg_humidity=31.88 avg_precip=0.09 avg_pm25=53.01 avg_wind=5.98
+Ivory	records=1374 anomalies=57 rate=4.15% status=MEDIUM_ANOMALY avg_temp=28.60 avg_humidity=39.69 avg_precip=0.04 avg_pm25=5.86 avg_wind=6.55
+Ivory Ivory Ban	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=24.30 avg_humidity=93.00 avg_precip=1.55 avg_pm25=1.80 avg_wind=4.00
+Jakarta	records=2064 anomalies=117 rate=5.67% status=MEDIUM_ANOMALY avg_temp=30.09 avg_humidity=70.34 avg_precip=0.31 avg_pm25=145.60 avg_wind=9.07
+Jerusalem	records=2061 anomalies=69 rate=3.35% status=MEDIUM_ANOMALY avg_temp=23.56 avg_humidity=50.19 avg_precip=0.01 avg_pm25=21.06 avg_wind=9.08
+Juba	records=2058 anomalies=63 rate=3.06% status=MEDIUM_ANOMALY avg_temp=28.31 avg_humidity=29.10 avg_precip=0.01 avg_pm25=46.70 avg_wind=13.33
+Kabul	records=2067 anomalies=135 rate=6.53% status=MEDIUM_ANOMALY avg_temp=18.84 avg_humidity=26.82 avg_precip=0.04 avg_pm25=19.06 avg_wind=5.31
+Kampala	records=2064 anomalies=69 rate=3.34% status=MEDIUM_ANOMALY avg_temp=25.30 avg_humidity=65.38 avg_precip=0.15 avg_pm25=31.97 avg_wind=5.77
+Kathmandu	records=2061 anomalies=69 rate=3.35% status=MEDIUM_ANOMALY avg_temp=22.84 avg_humidity=58.23 avg_precip=0.46 avg_pm25=46.73 avg_wind=4.35
+Khartoum	records=2058 anomalies=39 rate=1.90% status=NORMAL avg_temp=31.27 avg_humidity=25.43 avg_precip=0.02 avg_pm25=44.72 avg_wind=13.39
+Kigali	records=2064 anomalies=84 rate=4.07% status=MEDIUM_ANOMALY avg_temp=23.81 avg_humidity=59.97 avg_precip=0.18 avg_pm25=27.59 avg_wind=4.04
+Kingston	records=687 anomalies=36 rate=5.24% status=MEDIUM_ANOMALY avg_temp=26.14 avg_humidity=77.44 avg_precip=0.08 avg_pm25=11.04 avg_wind=3.37
+Kingstown	records=2058 anomalies=114 rate=5.54% status=MEDIUM_ANOMALY avg_temp=27.29 avg_humidity=77.07 avg_precip=0.14 avg_pm25=11.19 avg_wind=16.20
+Kinshasa	records=2058 anomalies=111 rate=5.39% status=MEDIUM_ANOMALY avg_temp=26.55 avg_humidity=73.86 avg_precip=0.14 avg_pm25=25.47 avg_wind=4.14
+Kiyabo	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=30.30 avg_humidity=75.00 avg_precip=0.12 avg_pm25=28.50 avg_wind=5.60
+Koror	records=840 anomalies=18 rate=2.14% status=NORMAL avg_temp=28.76 avg_humidity=78.87 avg_precip=0.43 avg_pm25=3.99 avg_wind=10.23
+Krasnyy Turkmenistan	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=37.80 avg_humidity=11.00 avg_precip=0.00 avg_pm25=6.70 avg_wind=13.60
+Kuala Lumpur	records=2061 anomalies=72 rate=3.49% status=MEDIUM_ANOMALY avg_temp=30.35 avg_humidity=69.46 avg_precip=0.58 avg_pm25=61.45 avg_wind=3.97
+Kuwait	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=44.40 avg_humidity=16.00 avg_precip=0.00 avg_pm25=176.70 avg_wind=23.50
+Kuwait City	records=2058 anomalies=60 rate=2.92% status=NORMAL avg_temp=30.89 avg_humidity=27.95 avg_precip=0.01 avg_pm25=92.42 avg_wind=10.71
+Kyiv	records=2067 anomalies=87 rate=4.21% status=MEDIUM_ANOMALY avg_temp=12.12 avg_humidity=60.09 avg_precip=0.05 avg_pm25=16.22 avg_wind=8.69
+Laos	records=2061 anomalies=78 rate=3.78% status=MEDIUM_ANOMALY avg_temp=26.25 avg_humidity=79.31 avg_precip=0.68 avg_pm25=24.35 avg_wind=4.39
+Libreville	records=2061 anomalies=75 rate=3.64% status=MEDIUM_ANOMALY avg_temp=26.88 avg_humidity=83.13 avg_precip=0.19 avg_pm25=14.48 avg_wind=6.09
+Lilongwe	records=2064 anomalies=93 rate=4.51% status=MEDIUM_ANOMALY avg_temp=24.20 avg_humidity=55.29 avg_precip=0.12 avg_pm25=10.02 avg_wind=7.35
+Lima	records=2049 anomalies=75 rate=3.66% status=MEDIUM_ANOMALY avg_temp=17.90 avg_humidity=83.78 avg_precip=0.00 avg_pm25=23.28 avg_wind=5.47
+Lisbon	records=2061 anomalies=90 rate=4.37% status=MEDIUM_ANOMALY avg_temp=17.05 avg_humidity=76.81 avg_precip=0.11 avg_pm25=17.03 avg_wind=9.23
+Ljubljana	records=2064 anomalies=99 rate=4.80% status=MEDIUM_ANOMALY avg_temp=12.94 avg_humidity=73.75 avg_precip=0.20 avg_pm25=24.02 avg_wind=3.89
+Lom	records=825 anomalies=33 rate=4.00% status=MEDIUM_ANOMALY avg_temp=10.68 avg_humidity=75.14 avg_precip=0.11 avg_pm25=15.04 avg_wind=6.99
+Lome	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=27.90 avg_humidity=74.00 avg_precip=0.16 avg_pm25=7.90 avg_wind=11.90
+London	records=2058 anomalies=108 rate=5.25% status=MEDIUM_ANOMALY avg_temp=12.25 avg_humidity=78.21 avg_precip=0.08 avg_pm25=15.13 avg_wind=8.76
+Luanda	records=2064 anomalies=102 rate=4.94% status=MEDIUM_ANOMALY avg_temp=26.12 avg_humidity=74.79 avg_precip=0.03 avg_pm25=31.42 avg_wind=5.87
+Lusaka	records=2064 anomalies=96 rate=4.65% status=MEDIUM_ANOMALY avg_temp=24.35 avg_humidity=48.01 avg_precip=0.11 avg_pm25=11.89 avg_wind=8.15
+Luxembourg	records=2058 anomalies=87 rate=4.23% status=MEDIUM_ANOMALY avg_temp=10.71 avg_humidity=79.68 avg_precip=0.09 avg_pm25=14.55 avg_wind=8.53
+Madrid	records=2064 anomalies=93 rate=4.51% status=MEDIUM_ANOMALY avg_temp=15.74 avg_humidity=62.29 avg_precip=0.05 avg_pm25=16.12 avg_wind=6.81
+Majuro	records=2064 anomalies=87 rate=4.22% status=MEDIUM_ANOMALY avg_temp=28.20 avg_humidity=81.11 avg_precip=0.30 avg_pm25=6.24 avg_wind=14.08
+Malabo	records=2067 anomalies=78 rate=3.77% status=MEDIUM_ANOMALY avg_temp=27.05 avg_humidity=86.65 avg_precip=0.34 avg_pm25=12.48 avg_wind=4.85
+Male	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=28.80 avg_humidity=81.00 avg_precip=0.02 avg_pm25=1.50 avg_wind=15.70
+Managua	records=2046 anomalies=126 rate=6.16% status=MEDIUM_ANOMALY avg_temp=24.15 avg_humidity=84.84 avg_precip=0.12 avg_pm25=8.70 avg_wind=6.71
+Manama	records=2064 anomalies=30 rate=1.45% status=NORMAL avg_temp=29.86 avg_humidity=49.79 avg_precip=0.00 avg_pm25=65.23 avg_wind=11.93
+Manila	records=2058 anomalies=69 rate=3.35% status=MEDIUM_ANOMALY avg_temp=30.05 avg_humidity=71.99 avg_precip=0.37 avg_pm25=27.71 avg_wind=8.42
+Maputo	records=2064 anomalies=81 rate=3.92% status=MEDIUM_ANOMALY avg_temp=25.84 avg_humidity=63.34 avg_precip=0.06 avg_pm25=11.34 avg_wind=8.66
+Maseru	records=2058 anomalies=120 rate=5.83% status=MEDIUM_ANOMALY avg_temp=19.57 avg_humidity=44.06 avg_precip=0.06 avg_pm25=21.05 avg_wind=7.99
+Mbabane	records=2058 anomalies=99 rate=4.81% status=MEDIUM_ANOMALY avg_temp=21.88 avg_humidity=59.41 avg_precip=0.06 avg_pm25=18.64 avg_wind=5.36
+Melbourne	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=11.60 avg_humidity=54.00 avg_precip=0.00 avg_pm25=2.80 avg_wind=11.20
+Mexico (Grupo Mexico)	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=27.40 avg_humidity=72.00 avg_precip=0.00 avg_pm25=10.30 avg_wind=9.40
+Mexico City	records=2049 anomalies=57 rate=2.78% status=NORMAL avg_temp=14.38 avg_humidity=68.98 avg_precip=0.04 avg_pm25=46.05 avg_wind=3.55
+Meyungs	records=48 anomalies=3 rate=6.25% status=MEDIUM_ANOMALY avg_temp=27.00 avg_humidity=89.44 avg_precip=0.25 avg_pm25=0.99 avg_wind=5.54
+Minsk	records=2061 anomalies=87 rate=4.22% status=MEDIUM_ANOMALY avg_temp=9.56 avg_humidity=72.67 avg_precip=0.08 avg_pm25=14.58 avg_wind=10.27
+Mogadishu	records=2058 anomalies=81 rate=3.94% status=MEDIUM_ANOMALY avg_temp=28.80 avg_humidity=74.83 avg_precip=0.02 avg_pm25=12.14 avg_wind=17.03
+Moldova	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=27.70 avg_humidity=52.00 avg_precip=0.00 avg_pm25=2.50 avg_wind=18.30
+Mombasa	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=26.80 avg_humidity=65.00 avg_precip=0.00 avg_pm25=4.70 avg_wind=20.40
+Monaco	records=2055 anomalies=99 rate=4.82% status=MEDIUM_ANOMALY avg_temp=17.75 avg_humidity=63.76 avg_precip=0.11 avg_pm25=9.32 avg_wind=6.30
+Monrovia	records=2061 anomalies=108 rate=5.24% status=MEDIUM_ANOMALY avg_temp=25.98 avg_humidity=87.93 avg_precip=0.34 avg_pm25=18.83 avg_wind=5.82
+Montevideo	records=2061 anomalies=114 rate=5.53% status=MEDIUM_ANOMALY avg_temp=14.60 avg_humidity=86.73 avg_precip=0.08 avg_pm25=11.92 avg_wind=9.80
+Morocco City	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=40.30 avg_humidity=14.00 avg_precip=0.00 avg_pm25=8.20 avg_wind=10.50
+Moroni	records=2064 anomalies=90 rate=4.36% status=MEDIUM_ANOMALY avg_temp=26.46 avg_humidity=73.40 avg_precip=0.26 avg_pm25=8.82 avg_wind=10.02
+Moscow	records=2064 anomalies=78 rate=3.78% status=MEDIUM_ANOMALY avg_temp=9.36 avg_humidity=69.34 avg_precip=0.09 avg_pm25=43.54 avg_wind=8.79
+Muscat	records=2064 anomalies=48 rate=2.33% status=NORMAL avg_temp=31.36 avg_humidity=51.96 avg_precip=0.00 avg_pm25=36.05 avg_wind=9.12
+N'djamena	records=2067 anomalies=81 rate=3.92% status=MEDIUM_ANOMALY avg_temp=29.25 avg_humidity=40.64 avg_precip=0.04 avg_pm25=47.42 avg_wind=10.23
+Nairobi	records=2064 anomalies=96 rate=4.65% status=MEDIUM_ANOMALY avg_temp=21.76 avg_humidity=58.33 avg_precip=0.11 avg_pm25=21.24 avg_wind=7.85
+Nan	records=2067 anomalies=117 rate=5.66% status=MEDIUM_ANOMALY avg_temp=30.19 avg_humidity=61.61 avg_precip=0.31 avg_pm25=23.05 avg_wind=3.81
+Nassau	records=2049 anomalies=84 rate=4.10% status=MEDIUM_ANOMALY avg_temp=24.59 avg_humidity=80.73 avg_precip=0.07 avg_pm25=9.03 avg_wind=13.16
+National	records=2049 anomalies=228 rate=11.13% status=HIGH_ANOMALY avg_temp=22.54 avg_humidity=80.81 avg_precip=0.13 avg_pm25=18.16 avg_wind=2.72
+New Delhi	records=2061 anomalies=72 rate=3.49% status=MEDIUM_ANOMALY avg_temp=29.69 avg_humidity=45.65 avg_precip=0.06 avg_pm25=111.67 avg_wind=6.46
+New Guatemala	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=15.90 avg_humidity=95.00 avg_precip=0.00 avg_pm25=40.80 avg_wind=4.00
+New York	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=26.10 avg_humidity=40.00 avg_precip=0.00 avg_pm25=1.10 avg_wind=10.50
+Ngaoundere	records=1272 anomalies=39 rate=3.07% status=MEDIUM_ANOMALY avg_temp=25.39 avg_humidity=56.06 avg_precip=0.24 avg_pm25=26.76 avg_wind=5.41
+Niamey	records=2064 anomalies=51 rate=2.47% status=NORMAL avg_temp=28.93 avg_humidity=40.38 avg_precip=0.02 avg_pm25=29.21 avg_wind=11.24
+Nicosia	records=2064 anomalies=87 rate=4.22% status=MEDIUM_ANOMALY avg_temp=24.40 avg_humidity=51.01 avg_precip=0.03 avg_pm25=13.91 avg_wind=7.97
+Norman Gardens	records=108 anomalies=9 rate=8.33% status=MEDIUM_ANOMALY avg_temp=30.33 avg_humidity=69.50 avg_precip=0.12 avg_pm25=10.49 avg_wind=10.27
+Nouakchott	records=2061 anomalies=48 rate=2.33% status=NORMAL avg_temp=23.56 avg_humidity=55.65 avg_precip=0.01 avg_pm25=66.48 avg_wind=12.61
+Nuku'alofa	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=23.70 avg_humidity=68.00 avg_precip=0.01 avg_pm25=1.40 avg_wind=11.90
+Nuku`Aloia	records=2055 anomalies=84 rate=4.09% status=MEDIUM_ANOMALY avg_temp=23.98 avg_humidity=87.69 avg_precip=0.19 avg_pm25=8.50 avg_wind=14.10
+Oslo	records=2058 anomalies=144 rate=7.00% status=MEDIUM_ANOMALY avg_temp=7.90 avg_humidity=76.58 avg_precip=0.11 avg_pm25=10.26 avg_wind=7.30
+Ottawa	records=2058 anomalies=93 rate=4.52% status=MEDIUM_ANOMALY avg_temp=4.80 avg_humidity=83.39 avg_precip=0.15 avg_pm25=8.89 avg_wind=6.94
+Ouagadougou	records=2064 anomalies=69 rate=3.34% status=MEDIUM_ANOMALY avg_temp=27.85 avg_humidity=50.76 avg_precip=0.05 avg_pm25=42.15 avg_wind=9.52
+Palau	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=27.20 avg_humidity=82.00 avg_precip=1.59 avg_pm25=0.50 avg_wind=16.80
+Palikir	records=2058 anomalies=39 rate=1.90% status=NORMAL avg_temp=28.13 avg_humidity=83.25 avg_precip=0.35 avg_pm25=6.27 avg_wind=12.81
+Panama City	records=2055 anomalies=141 rate=6.86% status=MEDIUM_ANOMALY avg_temp=25.41 avg_humidity=90.17 avg_precip=0.18 avg_pm25=7.91 avg_wind=4.84
+Paramaribo	records=2055 anomalies=147 rate=7.15% status=MEDIUM_ANOMALY avg_temp=24.37 avg_humidity=93.10 avg_precip=0.17 avg_pm25=9.24 avg_wind=5.81
+Paris	records=2061 anomalies=105 rate=5.09% status=MEDIUM_ANOMALY avg_temp=13.22 avg_humidity=76.38 avg_precip=0.10 avg_pm25=18.68 avg_wind=7.79
+Pasto	records=75 anomalies=6 rate=8.00% status=MEDIUM_ANOMALY avg_temp=22.35 avg_humidity=49.96 avg_precip=0.00 avg_pm25=6.21 avg_wind=10.67
+Pathein	records=48 anomalies=3 rate=6.25% status=MEDIUM_ANOMALY avg_temp=28.81 avg_humidity=79.31 avg_precip=0.77 avg_pm25=2.48 avg_wind=9.28
+Phnom Penh	records=2058 anomalies=84 rate=4.08% status=MEDIUM_ANOMALY avg_temp=31.53 avg_humidity=62.23 avg_precip=0.15 avg_pm25=26.40 avg_wind=8.50
+Phnum Penh	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=26.30 avg_humidity=74.00 avg_precip=0.00 avg_pm25=15.50 avg_wind=8.50
+Podgorica	records=2058 anomalies=75 rate=3.64% status=MEDIUM_ANOMALY avg_temp=18.58 avg_humidity=59.31 avg_precip=0.20 avg_pm25=15.22 avg_wind=4.55
+Port Louis	records=2061 anomalies=66 rate=3.20% status=MEDIUM_ANOMALY avg_temp=26.79 avg_humidity=68.37 avg_precip=0.09 avg_pm25=8.40 avg_wind=12.01
+Port Moresby	records=2064 anomalies=60 rate=2.91% status=NORMAL avg_temp=26.86 avg_humidity=82.85 avg_precip=0.50 avg_pm25=8.13 avg_wind=8.92
+Port Of Spain	records=2055 anomalies=123 rate=5.99% status=MEDIUM_ANOMALY avg_temp=25.30 avg_humidity=88.58 avg_precip=0.22 avg_pm25=9.68 avg_wind=6.96
+Port Royal	records=1260 anomalies=57 rate=4.52% status=MEDIUM_ANOMALY avg_temp=26.87 avg_humidity=78.93 avg_precip=0.20 avg_pm25=13.42 avg_wind=4.46
+Port Vila	records=2064 anomalies=69 rate=3.34% status=MEDIUM_ANOMALY avg_temp=25.11 avg_humidity=86.27 avg_precip=0.24 avg_pm25=8.88 avg_wind=10.01
+Port-Au-Prince	records=2055 anomalies=96 rate=4.67% status=MEDIUM_ANOMALY avg_temp=21.41 avg_humidity=86.77 avg_precip=0.03 avg_pm25=30.77 avg_wind=4.42
+Porto-Novo	records=2061 anomalies=96 rate=4.66% status=MEDIUM_ANOMALY avg_temp=28.33 avg_humidity=79.76 avg_precip=0.09 avg_pm25=26.84 avg_wind=7.21
+Prague	records=2058 anomalies=69 rate=3.35% status=MEDIUM_ANOMALY avg_temp=10.92 avg_humidity=72.21 avg_precip=0.07 avg_pm25=18.10 avg_wind=7.53
+Praia	records=2064 anomalies=90 rate=4.36% status=MEDIUM_ANOMALY avg_temp=24.06 avg_humidity=71.42 avg_precip=0.01 avg_pm25=25.08 avg_wind=12.55
+Pretoria	records=2064 anomalies=129 rate=6.25% status=MEDIUM_ANOMALY avg_temp=21.08 avg_humidity=49.60 avg_precip=0.05 avg_pm25=36.11 avg_wind=7.39
+Pristina	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=29.30 avg_humidity=42.00 avg_precip=0.27 avg_pm25=6.30 avg_wind=5.80
+Pyongyang	records=2058 anomalies=90 rate=4.37% status=MEDIUM_ANOMALY avg_temp=13.55 avg_humidity=59.78 avg_precip=0.09 avg_pm25=35.90 avg_wind=7.52
+Quito	records=2049 anomalies=144 rate=7.03% status=MEDIUM_ANOMALY avg_temp=10.50 avg_humidity=83.48 avg_precip=0.09 avg_pm25=11.21 avg_wind=2.92
+Rabat	records=2058 anomalies=99 rate=4.81% status=MEDIUM_ANOMALY avg_temp=18.80 avg_humidity=79.46 avg_precip=0.06 avg_pm25=15.18 avg_wind=8.17
+Rangoon	records=744 anomalies=30 rate=4.03% status=MEDIUM_ANOMALY avg_temp=31.16 avg_humidity=66.38 avg_precip=0.25 avg_pm25=27.71 avg_wind=5.59
+Reykjavik	records=678 anomalies=33 rate=4.87% status=MEDIUM_ANOMALY avg_temp=3.30 avg_humidity=74.56 avg_precip=0.15 avg_pm25=3.50 avg_wind=12.95
+Riga	records=2061 anomalies=111 rate=5.39% status=MEDIUM_ANOMALY avg_temp=9.66 avg_humidity=75.38 avg_precip=0.09 avg_pm25=13.91 avg_wind=8.78
+Riyadh	records=2061 anomalies=96 rate=4.66% status=MEDIUM_ANOMALY avg_temp=30.62 avg_humidity=18.55 avg_precip=0.00 avg_pm25=137.83 avg_wind=9.58
+Rome	records=2064 anomalies=51 rate=2.47% status=NORMAL avg_temp=18.63 avg_humidity=66.58 avg_precip=0.08 avg_pm25=17.06 avg_wind=6.47
+Roseau	records=2052 anomalies=132 rate=6.43% status=MEDIUM_ANOMALY avg_temp=26.59 avg_humidity=77.76 avg_precip=0.13 avg_pm25=10.79 avg_wind=10.60
+S-Chanf	records=129 anomalies=12 rate=9.30% status=MEDIUM_ANOMALY avg_temp=0.20 avg_humidity=88.49 avg_precip=0.14 avg_pm25=4.69 avg_wind=5.18
+S. Manian	records=108 anomalies=3 rate=2.78% status=NORMAL avg_temp=28.42 avg_humidity=58.08 avg_precip=0.00 avg_pm25=14.81 avg_wind=13.62
+Saint George's	records=2049 anomalies=72 rate=3.51% status=MEDIUM_ANOMALY avg_temp=27.08 avg_humidity=82.60 avg_precip=0.16 avg_pm25=11.98 avg_wind=12.74
+Saint John's	records=2052 anomalies=90 rate=4.39% status=MEDIUM_ANOMALY avg_temp=26.36 avg_humidity=78.68 avg_precip=0.12 avg_pm25=10.61 avg_wind=15.24
+Saint Petersburg	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=22.90 avg_humidity=44.00 avg_precip=0.00 avg_pm25=0.90 avg_wind=11.90
+San Ignacio	records=1317 anomalies=69 rate=5.24% status=MEDIUM_ANOMALY avg_temp=19.37 avg_humidity=84.97 avg_precip=0.12 avg_pm25=11.55 avg_wind=4.36
+San Jose	records=678 anomalies=30 rate=4.42% status=MEDIUM_ANOMALY avg_temp=19.73 avg_humidity=83.13 avg_precip=0.07 avg_pm25=9.25 avg_wind=4.44
+San Juan	records=48 anomalies=3 rate=6.25% status=MEDIUM_ANOMALY avg_temp=23.75 avg_humidity=74.75 avg_precip=0.20 avg_pm25=19.80 avg_wind=6.77
+San Marino	records=2055 anomalies=96 rate=4.67% status=MEDIUM_ANOMALY avg_temp=16.65 avg_humidity=70.29 avg_precip=0.12 avg_pm25=16.20 avg_wind=7.59
+San Salvador	records=2043 anomalies=87 rate=4.26% status=MEDIUM_ANOMALY avg_temp=23.63 avg_humidity=87.05 avg_precip=0.23 avg_pm25=20.48 avg_wind=3.03
+Sanaa	records=2067 anomalies=78 rate=3.77% status=MEDIUM_ANOMALY avg_temp=22.08 avg_humidity=24.87 avg_precip=0.04 avg_pm25=24.16 avg_wind=7.43
+Santiago	records=2055 anomalies=129 rate=6.28% status=MEDIUM_ANOMALY avg_temp=11.22 avg_humidity=75.35 avg_precip=0.05 avg_pm25=151.68 avg_wind=2.69
+Santo Domingo	records=2055 anomalies=81 rate=3.94% status=MEDIUM_ANOMALY avg_temp=23.90 avg_humidity=94.48 avg_precip=0.13 avg_pm25=12.94 avg_wind=5.90
+Sao Paulo	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=17.90 avg_humidity=90.00 avg_precip=0.09 avg_pm25=13.10 avg_wind=7.20
+Sarajevo	records=2064 anomalies=129 rate=6.25% status=MEDIUM_ANOMALY avg_temp=12.94 avg_humidity=71.18 avg_precip=0.16 avg_pm25=26.63 avg_wind=4.32
+Sartorio	records=27 anomalies=0 rate=0.00% status=NORMAL avg_temp=24.04 avg_humidity=79.00 avg_precip=0.03 avg_pm25=8.28 avg_wind=4.28
+Seoul	records=2061 anomalies=66 rate=3.20% status=MEDIUM_ANOMALY avg_temp=15.99 avg_humidity=61.80 avg_precip=0.10 avg_pm25=48.10 avg_wind=6.81
+Singapore	records=2064 anomalies=51 rate=2.47% status=NORMAL avg_temp=29.86 avg_humidity=68.85 avg_precip=0.37 avg_pm25=21.73 avg_wind=8.59
+Skopje	records=2049 anomalies=141 rate=6.88% status=MEDIUM_ANOMALY avg_temp=16.67 avg_humidity=60.53 avg_precip=0.06 avg_pm25=24.53 avg_wind=4.14
+Sofia	records=2061 anomalies=57 rate=2.77% status=NORMAL avg_temp=13.80 avg_humidity=62.30 avg_precip=0.12 avg_pm25=22.28 avg_wind=5.15
+Stockholm	records=2061 anomalies=87 rate=4.22% status=MEDIUM_ANOMALY avg_temp=9.70 avg_humidity=74.06 avg_precip=0.06 avg_pm25=7.01 avg_wind=8.98
+Sucre	records=2046 anomalies=135 rate=6.60% status=MEDIUM_ANOMALY avg_temp=11.93 avg_humidity=73.79 avg_precip=0.10 avg_pm25=7.27 avg_wind=3.59
+Surabaya	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=27.70 avg_humidity=74.00 avg_precip=0.00 avg_pm25=13.60 avg_wind=7.80
+Suva	records=2067 anomalies=42 rate=2.03% status=NORMAL avg_temp=24.76 avg_humidity=89.76 avg_precip=0.35 avg_pm25=5.90 avg_wind=7.23
+Tallinn	records=2061 anomalies=105 rate=5.09% status=MEDIUM_ANOMALY avg_temp=8.96 avg_humidity=75.02 avg_precip=0.09 avg_pm25=8.64 avg_wind=11.19
+Tarawa	records=2061 anomalies=63 rate=3.06% status=MEDIUM_ANOMALY avg_temp=27.94 avg_humidity=75.00 avg_precip=0.07 avg_pm25=10.02 avg_wind=12.75
+Tashkent	records=2067 anomalies=81 rate=3.92% status=MEDIUM_ANOMALY avg_temp=21.75 avg_humidity=35.45 avg_precip=0.05 avg_pm25=24.40 avg_wind=5.95
+Tbilisi	records=2055 anomalies=69 rate=3.36% status=MEDIUM_ANOMALY avg_temp=17.23 avg_humidity=55.30 avg_precip=0.05 avg_pm25=14.89 avg_wind=6.70
+Tegucigalpa	records=2049 anomalies=123 rate=6.00% status=MEDIUM_ANOMALY avg_temp=19.13 avg_humidity=87.35 avg_precip=0.07 avg_pm25=10.88 avg_wind=3.91
+Tehran	records=2061 anomalies=84 rate=4.08% status=MEDIUM_ANOMALY avg_temp=21.73 avg_humidity=26.18 avg_precip=0.02 avg_pm25=55.57 avg_wind=6.76
+Thimphu	records=2058 anomalies=75 rate=3.64% status=MEDIUM_ANOMALY avg_temp=13.34 avg_humidity=60.92 avg_precip=0.29 avg_pm25=10.07 avg_wind=5.02
+Tirana	records=2061 anomalies=99 rate=4.80% status=MEDIUM_ANOMALY avg_temp=19.43 avg_humidity=57.12 avg_precip=0.14 avg_pm25=15.06 avg_wind=5.40
+Tokyo	records=2067 anomalies=39 rate=1.89% status=NORMAL avg_temp=19.48 avg_humidity=60.83 avg_precip=0.14 avg_pm25=41.72 avg_wind=10.79
+Tripoli	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=27.00 avg_humidity=74.00 avg_precip=0.00 avg_pm25=38.80 avg_wind=19.70
+Tunis	records=2058 anomalies=90 rate=4.37% status=MEDIUM_ANOMALY avg_temp=21.79 avg_humidity=65.00 avg_precip=0.02 avg_pm25=18.05 avg_wind=9.05
+Ulaanbaatar	records=2061 anomalies=123 rate=5.97% status=MEDIUM_ANOMALY avg_temp=3.43 avg_humidity=52.33 avg_precip=0.04 avg_pm25=22.82 avg_wind=5.02
+Vaduz	records=2061 anomalies=87 rate=4.22% status=MEDIUM_ANOMALY avg_temp=10.10 avg_humidity=81.45 avg_precip=0.19 avg_pm25=7.59 avg_wind=4.60
+Valletta	records=2067 anomalies=108 rate=5.22% status=MEDIUM_ANOMALY avg_temp=21.89 avg_humidity=68.30 avg_precip=0.05 avg_pm25=15.64 avg_wind=12.48
+Vatican City	records=2067 anomalies=66 rate=3.19% status=MEDIUM_ANOMALY avg_temp=18.62 avg_humidity=66.60 avg_precip=0.08 avg_pm25=17.16 avg_wind=6.55
+Vestmannaeyjar	records=1272 anomalies=45 rate=3.54% status=MEDIUM_ANOMALY avg_temp=6.42 avg_humidity=82.94 avg_precip=0.19 avg_pm25=4.38 avg_wind=16.27
+Victoria	records=2058 anomalies=93 rate=4.52% status=MEDIUM_ANOMALY avg_temp=28.83 avg_humidity=74.72 avg_precip=0.13 avg_pm25=8.83 avg_wind=11.55
+Vienna	records=2064 anomalies=72 rate=3.49% status=MEDIUM_ANOMALY avg_temp=12.69 avg_humidity=68.21 avg_precip=0.08 avg_pm25=18.09 avg_wind=8.02
+Vientiane	records=3 anomalies=0 rate=0.00% status=NORMAL avg_temp=25.00 avg_humidity=95.00 avg_precip=1.97 avg_pm25=16.00 avg_wind=5.60
+Vilnius	records=2061 anomalies=69 rate=3.35% status=MEDIUM_ANOMALY avg_temp=9.38 avg_humidity=73.83 avg_precip=0.12 avg_pm25=12.13 avg_wind=9.02
+Warsaw	records=2067 anomalies=84 rate=4.06% status=MEDIUM_ANOMALY avg_temp=11.51 avg_humidity=69.91 avg_precip=0.06 avg_pm25=25.99 avg_wind=8.51
+Washington Harbor	records=1989 anomalies=117 rate=5.88% status=MEDIUM_ANOMALY avg_temp=8.49 avg_humidity=90.03 avg_precip=0.05 avg_pm25=6.25 avg_wind=5.05
+Washington Park	records=48 anomalies=0 rate=0.00% status=NORMAL avg_temp=10.42 avg_humidity=60.44 avg_precip=0.00 avg_pm25=1.77 avg_wind=9.99
+Wellington	records=2061 anomalies=54 rate=2.62% status=NORMAL avg_temp=14.01 avg_humidity=78.47 avg_precip=0.16 avg_pm25=6.69 avg_wind=15.29
+Windhoek	records=2064 anomalies=84 rate=4.07% status=MEDIUM_ANOMALY avg_temp=22.66 avg_humidity=36.76 avg_precip=0.02 avg_pm25=6.77 avg_wind=10.29
+Yamoussoukro	records=681 anomalies=54 rate=7.93% status=MEDIUM_ANOMALY avg_temp=22.91 avg_humidity=91.51 avg_precip=0.03 avg_pm25=10.03 avg_wind=2.96
+Yangon	records=1272 anomalies=54 rate=4.25% status=MEDIUM_ANOMALY avg_temp=30.52 avg_humidity=72.84 avg_precip=0.50 avg_pm25=29.53 avg_wind=7.54
+Yaounde	records=48 anomalies=3 rate=6.25% status=MEDIUM_ANOMALY avg_temp=29.79 avg_humidity=61.25 avg_precip=0.32 avg_pm25=3.80 avg_wind=3.84
+Yaren	records=2061 anomalies=75 rate=3.64% status=MEDIUM_ANOMALY avg_temp=18.08 avg_humidity=63.23 avg_precip=0.08 avg_pm25=23.02 avg_wind=10.50
+Yerevan	records=2064 anomalies=99 rate=4.80% status=MEDIUM_ANOMALY avg_temp=16.83 avg_humidity=44.70 avg_precip=0.04 avg_pm25=13.85 avg_wind=4.40
+Zagreb	records=2055 anomalies=117 rate=5.69% status=MEDIUM_ANOMALY avg_temp=14.07 avg_humidity=69.57 avg_precip=0.10 avg_pm25=23.68 avg_wind=4.65

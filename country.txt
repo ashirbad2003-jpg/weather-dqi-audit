@@ -1,0 +1,211 @@
+Afghanistan	cities=1 records=2067 avg_temp=18.84 avg_humidity=26.82 avg_precip=0.04 avg_pm25=19.06 country_dqi=100.00 tag=TRUSTED
+Albania	cities=1 records=2061 avg_temp=19.43 avg_humidity=57.12 avg_precip=0.14 avg_pm25=15.06 country_dqi=100.00 tag=TRUSTED
+Algeria	cities=1 records=2058 avg_temp=20.48 avg_humidity=63.74 avg_precip=0.05 avg_pm25=18.81 country_dqi=100.00 tag=TRUSTED
+Andorra	cities=1 records=2064 avg_temp=8.89 avg_humidity=64.31 avg_precip=0.13 avg_pm25=4.69 country_dqi=100.00 tag=TRUSTED
+Angola	cities=1 records=2064 avg_temp=26.12 avg_humidity=74.79 avg_precip=0.03 avg_pm25=31.42 country_dqi=100.00 tag=TRUSTED
+Antigua and Barbuda	cities=1 records=2052 avg_temp=26.36 avg_humidity=78.68 avg_precip=0.12 avg_pm25=10.61 country_dqi=100.00 tag=TRUSTED
+Argentina	cities=1 records=2058 avg_temp=15.03 avg_humidity=82.05 avg_precip=0.09 avg_pm25=11.37 country_dqi=100.00 tag=TRUSTED
+Armenia	cities=1 records=2064 avg_temp=16.83 avg_humidity=44.70 avg_precip=0.04 avg_pm25=13.85 country_dqi=100.00 tag=TRUSTED
+Australia	cities=2 records=2064 avg_temp=15.27 avg_humidity=64.69 avg_precip=0.11 avg_pm25=7.72 country_dqi=100.00 tag=TRUSTED
+Austria	cities=1 records=2064 avg_temp=12.69 avg_humidity=68.21 avg_precip=0.08 avg_pm25=18.09 country_dqi=100.00 tag=TRUSTED
+Azerbaijan	cities=1 records=2061 avg_temp=18.74 avg_humidity=61.62 avg_precip=0.04 avg_pm25=17.37 country_dqi=100.00 tag=TRUSTED
+Bahamas	cities=1 records=2049 avg_temp=24.59 avg_humidity=80.73 avg_precip=0.07 avg_pm25=9.03 country_dqi=100.00 tag=TRUSTED
+Bahrain	cities=1 records=2064 avg_temp=29.86 avg_humidity=49.79 avg_precip=0.00 avg_pm25=65.23 country_dqi=91.00 tag=POOR
+Bangladesh	cities=1 records=2061 avg_temp=30.83 avg_humidity=46.83 avg_precip=0.31 avg_pm25=72.15 country_dqi=91.00 tag=POOR
+Barbados	cities=1 records=2058 avg_temp=27.07 avg_humidity=79.58 avg_precip=0.15 avg_pm25=11.28 country_dqi=100.00 tag=TRUSTED
+Belarus	cities=1 records=2061 avg_temp=9.56 avg_humidity=72.67 avg_precip=0.08 avg_pm25=14.58 country_dqi=100.00 tag=TRUSTED
+Belgium	cities=5 records=3885 avg_temp=12.47 avg_humidity=76.96 avg_precip=0.09 avg_pm25=17.77 country_dqi=100.00 tag=TRUSTED
+Belize	cities=1 records=2049 avg_temp=22.10 avg_humidity=95.89 avg_precip=0.13 avg_pm25=6.99 country_dqi=100.00 tag=TRUSTED
+Benin	cities=1 records=2061 avg_temp=28.33 avg_humidity=79.76 avg_precip=0.09 avg_pm25=26.84 country_dqi=100.00 tag=TRUSTED
+Bhutan	cities=1 records=2058 avg_temp=13.34 avg_humidity=60.92 avg_precip=0.29 avg_pm25=10.07 country_dqi=100.00 tag=TRUSTED
+Bolivia	cities=2 records=4095 avg_temp=17.24 avg_humidity=77.30 avg_precip=0.11 avg_pm25=12.72 country_dqi=100.00 tag=TRUSTED
+Bosnia and Herzegovina	cities=1 records=2064 avg_temp=12.94 avg_humidity=71.18 avg_precip=0.16 avg_pm25=26.63 country_dqi=100.00 tag=TRUSTED
+Botswana	cities=1 records=2064 avg_temp=23.31 avg_humidity=49.90 avg_precip=0.05 avg_pm25=15.29 country_dqi=100.00 tag=TRUSTED
+Brazil	cities=2 records=2052 avg_temp=24.22 avg_humidity=83.02 avg_precip=0.20 avg_pm25=10.05 country_dqi=100.00 tag=TRUSTED
+Brunei Darussalam	cities=1 records=2058 avg_temp=29.32 avg_humidity=77.11 avg_precip=0.50 avg_pm25=14.79 country_dqi=100.00 tag=TRUSTED
+Bulgaria	cities=3 records=4770 avg_temp=14.58 avg_humidity=60.78 avg_precip=0.10 avg_pm25=18.88 country_dqi=100.00 tag=TRUSTED
+Burkina Faso	cities=1 records=2064 avg_temp=27.85 avg_humidity=50.76 avg_precip=0.05 avg_pm25=42.15 country_dqi=91.00 tag=POOR
+Burundi	cities=1 records=2067 avg_temp=25.88 avg_humidity=61.64 avg_precip=0.19 avg_pm25=26.11 country_dqi=100.00 tag=TRUSTED
+Bélgica	cities=1 records=3 avg_temp=17.40 avg_humidity=63.00 avg_precip=0.12 avg_pm25=1.80 country_dqi=100.00 tag=TRUSTED
+Cambodia	cities=2 records=2061 avg_temp=31.52 avg_humidity=62.25 avg_precip=0.15 avg_pm25=26.39 country_dqi=100.00 tag=TRUSTED
+Cameroon	cities=4 records=2061 avg_temp=25.46 avg_humidity=70.03 avg_precip=0.24 avg_pm25=24.21 country_dqi=100.00 tag=TRUSTED
+Canada	cities=1 records=2058 avg_temp=4.80 avg_humidity=83.39 avg_precip=0.15 avg_pm25=8.89 country_dqi=100.00 tag=TRUSTED
+Cape Verde	cities=1 records=2064 avg_temp=24.06 avg_humidity=71.42 avg_precip=0.01 avg_pm25=25.08 country_dqi=100.00 tag=TRUSTED
+Central African Republic	cities=1 records=2061 avg_temp=28.05 avg_humidity=69.86 avg_precip=0.12 avg_pm25=27.96 country_dqi=100.00 tag=TRUSTED
+Chad	cities=1 records=2067 avg_temp=29.25 avg_humidity=40.64 avg_precip=0.04 avg_pm25=47.42 country_dqi=91.00 tag=POOR
+Chile	cities=1 records=2055 avg_temp=11.22 avg_humidity=75.35 avg_precip=0.05 avg_pm25=151.68 country_dqi=82.00 tag=POOR
+China	cities=2 records=2058 avg_temp=17.64 avg_humidity=42.00 avg_precip=0.06 avg_pm25=134.31 country_dqi=82.00 tag=POOR
+Colombia	cities=1 records=3 avg_temp=13.50 avg_humidity=80.00 avg_precip=0.02 avg_pm25=13.60 country_dqi=100.00 tag=TRUSTED
+Comoros	cities=1 records=2058 avg_temp=26.47 avg_humidity=73.45 avg_precip=0.26 avg_pm25=8.83 country_dqi=100.00 tag=TRUSTED
+Congo	cities=1 records=2058 avg_temp=26.64 avg_humidity=73.56 avg_precip=0.14 avg_pm25=25.44 country_dqi=100.00 tag=TRUSTED
+Costa Rica	cities=3 records=2043 avg_temp=19.59 avg_humidity=84.12 avg_precip=0.11 avg_pm25=10.98 country_dqi=100.00 tag=TRUSTED
+Cote d'Ivoire	cities=1 records=681 avg_temp=22.91 avg_humidity=91.51 avg_precip=0.03 avg_pm25=10.03 country_dqi=100.00 tag=TRUSTED
+Croatia	cities=1 records=2055 avg_temp=14.07 avg_humidity=69.57 avg_precip=0.10 avg_pm25=23.68 country_dqi=100.00 tag=TRUSTED
+Cuba	cities=1 records=2052 avg_temp=22.59 avg_humidity=91.91 avg_precip=0.03 avg_pm25=10.07 country_dqi=100.00 tag=TRUSTED
+Cyprus	cities=1 records=2064 avg_temp=24.40 avg_humidity=51.01 avg_precip=0.03 avg_pm25=13.91 country_dqi=100.00 tag=TRUSTED
+Czech Republic	cities=1 records=2058 avg_temp=10.92 avg_humidity=72.21 avg_precip=0.07 avg_pm25=18.10 country_dqi=100.00 tag=TRUSTED
+Democratic Republic of Congo	cities=1 records=2058 avg_temp=26.55 avg_humidity=73.86 avg_precip=0.14 avg_pm25=25.47 country_dqi=100.00 tag=TRUSTED
+Denmark	cities=1 records=2061 avg_temp=10.87 avg_humidity=76.80 avg_precip=0.09 avg_pm25=11.07 country_dqi=100.00 tag=TRUSTED
+Djibouti	cities=1 records=2058 avg_temp=31.38 avg_humidity=55.44 avg_precip=0.03 avg_pm25=28.97 country_dqi=100.00 tag=TRUSTED
+Dominica	cities=1 records=2052 avg_temp=26.59 avg_humidity=77.76 avg_precip=0.13 avg_pm25=10.79 country_dqi=100.00 tag=TRUSTED
+Dominican Republic	cities=1 records=2055 avg_temp=23.90 avg_humidity=94.48 avg_precip=0.13 avg_pm25=12.94 country_dqi=100.00 tag=TRUSTED
+Ecuador	cities=1 records=2049 avg_temp=10.50 avg_humidity=83.48 avg_precip=0.09 avg_pm25=11.21 country_dqi=100.00 tag=TRUSTED
+Egypt	cities=1 records=2058 avg_temp=25.53 avg_humidity=43.18 avg_precip=0.00 avg_pm25=34.89 country_dqi=100.00 tag=TRUSTED
+El Salvador	cities=1 records=2043 avg_temp=23.63 avg_humidity=87.05 avg_precip=0.23 avg_pm25=20.48 country_dqi=100.00 tag=TRUSTED
+Equatorial Guinea	cities=1 records=2067 avg_temp=27.05 avg_humidity=86.65 avg_precip=0.34 avg_pm25=12.48 country_dqi=100.00 tag=TRUSTED
+Eritrea	cities=1 records=2067 avg_temp=21.10 avg_humidity=44.93 avg_precip=0.11 avg_pm25=19.82 country_dqi=100.00 tag=TRUSTED
+Estonia	cities=1 records=2058 avg_temp=8.94 avg_humidity=75.04 avg_precip=0.09 avg_pm25=8.63 country_dqi=100.00 tag=TRUSTED
+Estonie	cities=1 records=3 avg_temp=23.30 avg_humidity=61.00 avg_precip=0.00 avg_pm25=17.60 country_dqi=100.00 tag=TRUSTED
+Ethiopia	cities=2 records=2061 avg_temp=19.66 avg_humidity=52.15 avg_precip=0.24 avg_pm25=26.67 country_dqi=100.00 tag=TRUSTED
+Fiji Islands	cities=1 records=2067 avg_temp=24.76 avg_humidity=89.76 avg_precip=0.35 avg_pm25=5.90 country_dqi=100.00 tag=TRUSTED
+Finland	cities=1 records=2064 avg_temp=8.61 avg_humidity=75.66 avg_precip=0.08 avg_pm25=7.50 country_dqi=100.00 tag=TRUSTED
+France	cities=1 records=2061 avg_temp=13.22 avg_humidity=76.38 avg_precip=0.10 avg_pm25=18.68 country_dqi=100.00 tag=TRUSTED
+Gabon	cities=1 records=2061 avg_temp=26.88 avg_humidity=83.13 avg_precip=0.19 avg_pm25=14.48 country_dqi=100.00 tag=TRUSTED
+Gambia	cities=1 records=2055 avg_temp=24.97 avg_humidity=69.33 avg_precip=0.13 avg_pm25=32.00 country_dqi=100.00 tag=TRUSTED
+Georgia	cities=1 records=2055 avg_temp=17.23 avg_humidity=55.30 avg_precip=0.05 avg_pm25=14.89 country_dqi=100.00 tag=TRUSTED
+Germany	cities=1 records=2064 avg_temp=11.80 avg_humidity=71.48 avg_precip=0.06 avg_pm25=15.96 country_dqi=100.00 tag=TRUSTED
+Ghana	cities=1 records=2067 avg_temp=27.37 avg_humidity=81.83 avg_precip=0.07 avg_pm25=17.73 country_dqi=100.00 tag=TRUSTED
+Greece	cities=1 records=2052 avg_temp=21.83 avg_humidity=50.25 avg_precip=0.04 avg_pm25=18.35 country_dqi=100.00 tag=TRUSTED
+Grenada	cities=1 records=2049 avg_temp=27.08 avg_humidity=82.60 avg_precip=0.16 avg_pm25=11.98 country_dqi=100.00 tag=TRUSTED
+Guatemala	cities=1 records=2043 avg_temp=17.10 avg_humidity=90.18 avg_precip=0.08 avg_pm25=30.06 country_dqi=100.00 tag=TRUSTED
+Guinea	cities=1 records=2061 avg_temp=26.22 avg_humidity=83.80 avg_precip=0.39 avg_pm25=26.54 country_dqi=100.00 tag=TRUSTED
+Guinea-Bissau	cities=1 records=2061 avg_temp=25.35 avg_humidity=73.28 avg_precip=0.28 avg_pm25=35.09 country_dqi=91.00 tag=POOR
+Guyana	cities=1 records=2052 avg_temp=24.59 avg_humidity=94.67 avg_precip=0.45 avg_pm25=10.94 country_dqi=100.00 tag=TRUSTED
+Haiti	cities=1 records=2055 avg_temp=21.41 avg_humidity=86.77 avg_precip=0.03 avg_pm25=30.77 country_dqi=100.00 tag=TRUSTED
+Honduras	cities=1 records=2049 avg_temp=19.13 avg_humidity=87.35 avg_precip=0.07 avg_pm25=10.88 country_dqi=100.00 tag=TRUSTED
+Hungary	cities=2 records=2202 avg_temp=13.32 avg_humidity=65.53 avg_precip=0.06 avg_pm25=20.12 country_dqi=100.00 tag=TRUSTED
+Iceland	cities=3 records=2058 avg_temp=5.52 avg_humidity=79.76 avg_precip=0.18 avg_pm25=3.91 country_dqi=100.00 tag=TRUSTED
+Inde	cities=1 records=3 avg_temp=31.20 avg_humidity=71.00 avg_precip=0.00 avg_pm25=34.60 country_dqi=100.00 tag=TRUSTED
+India	cities=1 records=2058 avg_temp=29.68 avg_humidity=45.62 avg_precip=0.06 avg_pm25=111.78 country_dqi=82.00 tag=POOR
+Indonesia	cities=4 records=4131 avg_temp=28.17 avg_humidity=74.82 avg_precip=0.49 avg_pm25=84.91 country_dqi=82.00 tag=POOR
+Iran	cities=2 records=4011 avg_temp=19.25 avg_humidity=29.67 avg_precip=0.03 avg_pm25=38.88 country_dqi=91.00 tag=POOR
+Iraq	cities=1 records=2067 avg_temp=28.63 avg_humidity=30.90 avg_precip=0.02 avg_pm25=37.05 country_dqi=91.00 tag=POOR
+Ireland	cities=1 records=2058 avg_temp=10.94 avg_humidity=81.30 avg_precip=0.14 avg_pm25=9.54 country_dqi=100.00 tag=TRUSTED
+Israel	cities=1 records=2061 avg_temp=23.56 avg_humidity=50.19 avg_precip=0.01 avg_pm25=21.06 country_dqi=100.00 tag=TRUSTED
+Italy	cities=1 records=2064 avg_temp=18.63 avg_humidity=66.58 avg_precip=0.08 avg_pm25=17.06 country_dqi=100.00 tag=TRUSTED
+Jamaica	cities=3 records=2055 avg_temp=26.81 avg_humidity=77.94 avg_precip=0.16 avg_pm25=12.47 country_dqi=100.00 tag=TRUSTED
+Japan	cities=1 records=2067 avg_temp=19.48 avg_humidity=60.83 avg_precip=0.14 avg_pm25=41.72 country_dqi=91.00 tag=POOR
+Jemen	cities=1 records=3 avg_temp=26.10 avg_humidity=34.00 avg_precip=0.20 avg_pm25=25.00 country_dqi=100.00 tag=TRUSTED
+Jordan	cities=1 records=2067 avg_temp=21.57 avg_humidity=41.95 avg_precip=0.02 avg_pm25=22.57 country_dqi=100.00 tag=TRUSTED
+Kazakhstan	cities=1 records=2061 avg_temp=7.95 avg_humidity=62.38 avg_precip=0.06 avg_pm25=12.10 country_dqi=100.00 tag=TRUSTED
+Kenya	cities=2 records=2067 avg_temp=21.77 avg_humidity=58.34 avg_precip=0.11 avg_pm25=21.22 country_dqi=100.00 tag=TRUSTED
+Kiribati	cities=1 records=2061 avg_temp=27.94 avg_humidity=75.00 avg_precip=0.07 avg_pm25=10.02 country_dqi=100.00 tag=TRUSTED
+Komoren	cities=1 records=3 avg_temp=25.20 avg_humidity=71.00 avg_precip=0.00 avg_pm25=2.60 country_dqi=100.00 tag=TRUSTED
+Kosovo	cities=1 records=3 avg_temp=29.30 avg_humidity=42.00 avg_precip=0.27 avg_pm25=6.30 country_dqi=100.00 tag=TRUSTED
+Kuwait	cities=2 records=2061 avg_temp=30.91 avg_humidity=27.93 avg_precip=0.01 avg_pm25=92.54 country_dqi=82.00 tag=POOR
+Kyrghyzstan	cities=1 records=2061 avg_temp=16.76 avg_humidity=45.01 avg_precip=0.10 avg_pm25=20.64 country_dqi=100.00 tag=TRUSTED
+Lao People's Democratic Republic	cities=1 records=3 avg_temp=25.00 avg_humidity=95.00 avg_precip=1.97 avg_pm25=16.00 country_dqi=100.00 tag=TRUSTED
+Latvia	cities=1 records=2058 avg_temp=9.64 avg_humidity=75.35 avg_precip=0.09 avg_pm25=13.93 country_dqi=100.00 tag=TRUSTED
+Lebanon	cities=1 records=2061 avg_temp=23.29 avg_humidity=59.41 avg_precip=0.06 avg_pm25=29.61 country_dqi=100.00 tag=TRUSTED
+Lesotho	cities=1 records=2058 avg_temp=19.57 avg_humidity=44.06 avg_precip=0.06 avg_pm25=21.05 country_dqi=100.00 tag=TRUSTED
+Letonia	cities=1 records=3 avg_temp=20.60 avg_humidity=94.00 avg_precip=1.83 avg_pm25=2.50 country_dqi=100.00 tag=TRUSTED
+Liberia	cities=1 records=2061 avg_temp=25.98 avg_humidity=87.93 avg_precip=0.34 avg_pm25=18.83 country_dqi=100.00 tag=TRUSTED
+Libya	cities=1 records=3 avg_temp=27.00 avg_humidity=74.00 avg_precip=0.00 avg_pm25=38.80 country_dqi=91.00 tag=POOR
+Liechtenstein	cities=1 records=2061 avg_temp=10.10 avg_humidity=81.45 avg_precip=0.19 avg_pm25=7.59 country_dqi=100.00 tag=TRUSTED
+Lithuania	cities=1 records=2061 avg_temp=9.38 avg_humidity=73.83 avg_precip=0.12 avg_pm25=12.13 country_dqi=100.00 tag=TRUSTED
+Luxembourg	cities=1 records=2058 avg_temp=10.71 avg_humidity=79.68 avg_precip=0.09 avg_pm25=14.55 country_dqi=100.00 tag=TRUSTED
+Macedonia	cities=1 records=2049 avg_temp=16.67 avg_humidity=60.53 avg_precip=0.06 avg_pm25=24.53 country_dqi=100.00 tag=TRUSTED
+Madagascar	cities=2 records=3438 avg_temp=25.83 avg_humidity=47.68 avg_precip=0.06 avg_pm25=6.65 country_dqi=100.00 tag=TRUSTED
+Malawi	cities=1 records=2064 avg_temp=24.20 avg_humidity=55.29 avg_precip=0.12 avg_pm25=10.02 country_dqi=100.00 tag=TRUSTED
+Malaysia	cities=1 records=2061 avg_temp=30.35 avg_humidity=69.46 avg_precip=0.58 avg_pm25=61.45 country_dqi=91.00 tag=POOR
+Maldives	cities=3 records=2055 avg_temp=27.88 avg_humidity=74.89 avg_precip=0.22 avg_pm25=13.20 country_dqi=100.00 tag=TRUSTED
+Mali	cities=1 records=2061 avg_temp=26.53 avg_humidity=55.54 avg_precip=0.08 avg_pm25=29.57 country_dqi=100.00 tag=TRUSTED
+Malta	cities=1 records=2067 avg_temp=21.89 avg_humidity=68.30 avg_precip=0.05 avg_pm25=15.64 country_dqi=100.00 tag=TRUSTED
+Malásia	cities=1 records=3 avg_temp=24.30 avg_humidity=93.00 avg_precip=1.55 avg_pm25=1.80 country_dqi=100.00 tag=TRUSTED
+Marrocos	cities=1 records=3 avg_temp=40.30 avg_humidity=14.00 avg_precip=0.00 avg_pm25=8.20 country_dqi=100.00 tag=TRUSTED
+Marshall Islands	cities=1 records=2064 avg_temp=28.20 avg_humidity=81.11 avg_precip=0.30 avg_pm25=6.24 country_dqi=100.00 tag=TRUSTED
+Mauritania	cities=1 records=2061 avg_temp=23.56 avg_humidity=55.65 avg_precip=0.01 avg_pm25=66.48 country_dqi=91.00 tag=POOR
+Mauritius	cities=1 records=2061 avg_temp=26.79 avg_humidity=68.37 avg_precip=0.09 avg_pm25=8.40 country_dqi=100.00 tag=TRUSTED
+Mexico	cities=1 records=2049 avg_temp=14.38 avg_humidity=68.98 avg_precip=0.04 avg_pm25=46.05 country_dqi=91.00 tag=POOR
+Mexique	cities=1 records=3 avg_temp=27.40 avg_humidity=72.00 avg_precip=0.00 avg_pm25=10.30 country_dqi=100.00 tag=TRUSTED
+Micronesia	cities=1 records=2058 avg_temp=28.13 avg_humidity=83.25 avg_precip=0.35 avg_pm25=6.27 country_dqi=100.00 tag=TRUSTED
+Monaco	cities=1 records=2055 avg_temp=17.75 avg_humidity=63.76 avg_precip=0.11 avg_pm25=9.32 country_dqi=100.00 tag=TRUSTED
+Mongolia	cities=1 records=2061 avg_temp=3.43 avg_humidity=52.33 avg_precip=0.04 avg_pm25=22.82 country_dqi=100.00 tag=TRUSTED
+Montenegro	cities=1 records=2058 avg_temp=18.58 avg_humidity=59.31 avg_precip=0.20 avg_pm25=15.22 country_dqi=100.00 tag=TRUSTED
+Morocco	cities=1 records=2058 avg_temp=18.80 avg_humidity=79.46 avg_precip=0.06 avg_pm25=15.18 country_dqi=100.00 tag=TRUSTED
+Mozambique	cities=1 records=2064 avg_temp=25.84 avg_humidity=63.34 avg_precip=0.06 avg_pm25=11.34 country_dqi=100.00 tag=TRUSTED
+Myanmar	cities=3 records=2064 avg_temp=30.71 avg_humidity=70.66 avg_precip=0.42 avg_pm25=28.24 country_dqi=100.00 tag=TRUSTED
+Namibia	cities=1 records=2064 avg_temp=22.66 avg_humidity=36.76 avg_precip=0.02 avg_pm25=6.77 country_dqi=100.00 tag=TRUSTED
+Nepal	cities=1 records=2061 avg_temp=22.84 avg_humidity=58.23 avg_precip=0.46 avg_pm25=46.73 country_dqi=91.00 tag=POOR
+Netherlands	cities=1 records=2064 avg_temp=12.33 avg_humidity=77.44 avg_precip=0.10 avg_pm25=17.56 country_dqi=100.00 tag=TRUSTED
+New Zealand	cities=1 records=2061 avg_temp=14.01 avg_humidity=78.47 avg_precip=0.16 avg_pm25=6.69 country_dqi=100.00 tag=TRUSTED
+Nicaragua	cities=1 records=2046 avg_temp=24.15 avg_humidity=84.84 avg_precip=0.12 avg_pm25=8.70 country_dqi=100.00 tag=TRUSTED
+Niger	cities=1 records=2064 avg_temp=28.93 avg_humidity=40.38 avg_precip=0.02 avg_pm25=29.21 country_dqi=100.00 tag=TRUSTED
+Nigeria	cities=1 records=2064 avg_temp=27.30 avg_humidity=66.63 avg_precip=0.12 avg_pm25=51.74 country_dqi=91.00 tag=POOR
+North Korea	cities=1 records=2058 avg_temp=13.55 avg_humidity=59.78 avg_precip=0.09 avg_pm25=35.90 country_dqi=91.00 tag=POOR
+Norway	cities=1 records=2058 avg_temp=7.90 avg_humidity=76.58 avg_precip=0.11 avg_pm25=10.26 country_dqi=100.00 tag=TRUSTED
+Oman	cities=1 records=2064 avg_temp=31.36 avg_humidity=51.96 avg_precip=0.00 avg_pm25=36.05 country_dqi=91.00 tag=POOR
+Pakistan	cities=1 records=2058 avg_temp=28.02 avg_humidity=31.88 avg_precip=0.09 avg_pm25=53.01 country_dqi=91.00 tag=POOR
+Palau	cities=4 records=2061 avg_temp=28.28 avg_humidity=81.67 avg_precip=0.41 avg_pm25=5.51 country_dqi=100.00 tag=TRUSTED
+Panama	cities=1 records=2055 avg_temp=25.41 avg_humidity=90.17 avg_precip=0.18 avg_pm25=7.91 country_dqi=100.00 tag=TRUSTED
+Papua New Guinea	cities=1 records=2064 avg_temp=26.86 avg_humidity=82.85 avg_precip=0.50 avg_pm25=8.13 country_dqi=100.00 tag=TRUSTED
+Paraguay	cities=7 records=2061 avg_temp=21.13 avg_humidity=66.01 avg_precip=0.10 avg_pm25=12.54 country_dqi=100.00 tag=TRUSTED
+Peru	cities=1 records=2049 avg_temp=17.90 avg_humidity=83.78 avg_precip=0.00 avg_pm25=23.28 country_dqi=100.00 tag=TRUSTED
+Philippines	cities=2 records=2061 avg_temp=30.05 avg_humidity=72.00 avg_precip=0.37 avg_pm25=27.71 country_dqi=100.00 tag=TRUSTED
+Poland	cities=1 records=2067 avg_temp=11.51 avg_humidity=69.91 avg_precip=0.06 avg_pm25=25.99 country_dqi=100.00 tag=TRUSTED
+Polônia	cities=1 records=3 avg_temp=27.70 avg_humidity=52.00 avg_precip=0.00 avg_pm25=2.50 country_dqi=100.00 tag=TRUSTED
+Portugal	cities=1 records=2061 avg_temp=17.05 avg_humidity=76.81 avg_precip=0.11 avg_pm25=17.03 country_dqi=100.00 tag=TRUSTED
+Qatar	cities=1 records=2058 avg_temp=32.16 avg_humidity=41.52 avg_precip=0.00 avg_pm25=57.41 country_dqi=91.00 tag=POOR
+Romania	cities=1 records=2058 avg_temp=15.50 avg_humidity=62.07 avg_precip=0.05 avg_pm25=27.06 country_dqi=100.00 tag=TRUSTED
+Russia	cities=4 records=2211 avg_temp=8.40 avg_humidity=69.72 avg_precip=0.08 avg_pm25=41.16 country_dqi=91.00 tag=POOR
+Rwanda	cities=1 records=2064 avg_temp=23.81 avg_humidity=59.97 avg_precip=0.18 avg_pm25=27.59 country_dqi=100.00 tag=TRUSTED
+Saint Kitts and Nevis	cities=1 records=2058 avg_temp=26.65 avg_humidity=79.58 avg_precip=0.14 avg_pm25=8.99 country_dqi=100.00 tag=TRUSTED
+Saint Lucia	cities=1 records=2061 avg_temp=27.05 avg_humidity=80.42 avg_precip=0.15 avg_pm25=11.44 country_dqi=100.00 tag=TRUSTED
+Saint Vincent and the Grenadines	cities=1 records=2055 avg_temp=27.29 avg_humidity=77.06 avg_precip=0.14 avg_pm25=11.20 country_dqi=100.00 tag=TRUSTED
+Saint-Vincent-et-les-Grenadines	cities=1 records=3 avg_temp=27.80 avg_humidity=82.00 avg_precip=0.13 avg_pm25=1.80 country_dqi=100.00 tag=TRUSTED
+Samoa	cities=1 records=2046 avg_temp=25.95 avg_humidity=87.04 avg_precip=0.32 avg_pm25=5.70 country_dqi=100.00 tag=TRUSTED
+San Marino	cities=2 records=2058 avg_temp=16.68 avg_humidity=70.27 avg_precip=0.12 avg_pm25=16.20 country_dqi=100.00 tag=TRUSTED
+Saudi Arabia	cities=1 records=2061 avg_temp=30.62 avg_humidity=18.55 avg_precip=0.00 avg_pm25=137.83 country_dqi=82.00 tag=POOR
+Saudi Arabien	cities=1 records=3 avg_temp=45.00 avg_humidity=7.00 avg_precip=0.00 avg_pm25=22.30 country_dqi=100.00 tag=TRUSTED
+Senegal	cities=1 records=2067 avg_temp=24.56 avg_humidity=76.73 avg_precip=0.04 avg_pm25=34.57 country_dqi=100.00 tag=TRUSTED
+Serbia	cities=1 records=2064 avg_temp=15.31 avg_humidity=63.48 avg_precip=0.10 avg_pm25=26.23 country_dqi=100.00 tag=TRUSTED
+Seychelles Islands	cities=1 records=2058 avg_temp=28.83 avg_humidity=74.72 avg_precip=0.13 avg_pm25=8.83 country_dqi=100.00 tag=TRUSTED
+Sierra Leone	cities=1 records=2055 avg_temp=25.95 avg_humidity=81.43 avg_precip=0.48 avg_pm25=24.46 country_dqi=100.00 tag=TRUSTED
+Singapore	cities=1 records=2064 avg_temp=29.86 avg_humidity=68.85 avg_precip=0.37 avg_pm25=21.73 country_dqi=100.00 tag=TRUSTED
+Slovakia	cities=1 records=2064 avg_temp=13.18 avg_humidity=67.66 avg_precip=0.07 avg_pm25=18.15 country_dqi=100.00 tag=TRUSTED
+Slovenia	cities=1 records=2064 avg_temp=12.94 avg_humidity=73.75 avg_precip=0.20 avg_pm25=24.02 country_dqi=100.00 tag=TRUSTED
+Solomon Islands	cities=1 records=2064 avg_temp=27.19 avg_humidity=85.69 avg_precip=0.42 avg_pm25=2.91 country_dqi=100.00 tag=TRUSTED
+Somalia	cities=1 records=2058 avg_temp=28.80 avg_humidity=74.83 avg_precip=0.02 avg_pm25=12.14 country_dqi=100.00 tag=TRUSTED
+South Africa	cities=1 records=2064 avg_temp=21.08 avg_humidity=49.60 avg_precip=0.05 avg_pm25=36.11 country_dqi=91.00 tag=POOR
+South Korea	cities=1 records=2058 avg_temp=15.98 avg_humidity=61.77 avg_precip=0.10 avg_pm25=48.07 country_dqi=91.00 tag=POOR
+Spain	cities=1 records=2064 avg_temp=15.74 avg_humidity=62.29 avg_precip=0.05 avg_pm25=16.12 country_dqi=100.00 tag=TRUSTED
+Sri Lanka	cities=1 records=2064 avg_temp=30.15 avg_humidity=72.89 avg_precip=0.42 avg_pm25=26.28 country_dqi=100.00 tag=TRUSTED
+Sudan	cities=2 records=4116 avg_temp=29.79 avg_humidity=27.27 avg_precip=0.02 avg_pm25=45.71 country_dqi=91.00 tag=POOR
+Suriname	cities=1 records=2055 avg_temp=24.37 avg_humidity=93.10 avg_precip=0.17 avg_pm25=9.24 country_dqi=100.00 tag=TRUSTED
+Swaziland	cities=1 records=2058 avg_temp=21.88 avg_humidity=59.41 avg_precip=0.06 avg_pm25=18.64 country_dqi=100.00 tag=TRUSTED
+Sweden	cities=1 records=2061 avg_temp=9.70 avg_humidity=74.06 avg_precip=0.06 avg_pm25=7.01 country_dqi=100.00 tag=TRUSTED
+Switzerland	cities=2 records=2193 avg_temp=10.31 avg_humidity=78.47 avg_precip=0.16 avg_pm25=12.28 country_dqi=100.00 tag=TRUSTED
+Syria	cities=1 records=2061 avg_temp=21.72 avg_humidity=40.80 avg_precip=0.02 avg_pm25=24.11 country_dqi=100.00 tag=TRUSTED
+Südkorea	cities=1 records=3 avg_temp=26.10 avg_humidity=84.00 avg_precip=0.22 avg_pm25=70.20 country_dqi=91.00 tag=POOR
+Tajikistan	cities=1 records=2058 avg_temp=22.30 avg_humidity=37.60 avg_precip=0.06 avg_pm25=18.49 country_dqi=100.00 tag=TRUSTED
+Tanzania	cities=1 records=2061 avg_temp=25.48 avg_humidity=52.41 avg_precip=0.08 avg_pm25=9.34 country_dqi=100.00 tag=TRUSTED
+Thailand	cities=2 records=4128 avg_temp=30.92 avg_humidity=59.43 avg_precip=0.22 avg_pm25=28.81 country_dqi=100.00 tag=TRUSTED
+Timor-Leste	cities=1 records=2055 avg_temp=26.40 avg_humidity=75.62 avg_precip=0.39 avg_pm25=7.58 country_dqi=100.00 tag=TRUSTED
+Togo	cities=1 records=3 avg_temp=27.90 avg_humidity=74.00 avg_precip=0.16 avg_pm25=7.90 country_dqi=100.00 tag=TRUSTED
+Tonga	cities=2 records=2058 avg_temp=23.98 avg_humidity=87.66 avg_precip=0.19 avg_pm25=8.49 country_dqi=100.00 tag=TRUSTED
+Trinidad and Tobago	cities=1 records=2055 avg_temp=25.30 avg_humidity=88.58 avg_precip=0.22 avg_pm25=9.68 country_dqi=100.00 tag=TRUSTED
+Tunisia	cities=1 records=2058 avg_temp=21.79 avg_humidity=65.00 avg_precip=0.02 avg_pm25=18.05 country_dqi=100.00 tag=TRUSTED
+Turkey	cities=2 records=4116 avg_temp=16.94 avg_humidity=58.57 avg_precip=0.06 avg_pm25=24.71 country_dqi=100.00 tag=TRUSTED
+Turkmenistan	cities=1 records=2061 avg_temp=22.36 avg_humidity=40.93 avg_precip=0.02 avg_pm25=19.86 country_dqi=100.00 tag=TRUSTED
+Turkménistan	cities=1 records=3 avg_temp=37.80 avg_humidity=11.00 avg_precip=0.00 avg_pm25=6.70 country_dqi=100.00 tag=TRUSTED
+Tuvalu	cities=1 records=2064 avg_temp=28.75 avg_humidity=81.56 avg_precip=0.37 avg_pm25=6.11 country_dqi=100.00 tag=TRUSTED
+USA United States of America	cities=3 records=9 avg_temp=24.53 avg_humidity=66.00 avg_precip=0.53 avg_pm25=3.80 country_dqi=100.00 tag=TRUSTED
+Uganda	cities=1 records=2064 avg_temp=25.30 avg_humidity=65.38 avg_precip=0.15 avg_pm25=31.97 country_dqi=100.00 tag=TRUSTED
+Ukraine	cities=1 records=2067 avg_temp=12.12 avg_humidity=60.09 avg_precip=0.05 avg_pm25=16.22 country_dqi=100.00 tag=TRUSTED
+United Arab Emirates	cities=1 records=2064 avg_temp=32.22 avg_humidity=43.90 avg_precip=0.00 avg_pm25=58.09 country_dqi=91.00 tag=POOR
+United Kingdom	cities=1 records=2058 avg_temp=12.25 avg_humidity=78.21 avg_precip=0.08 avg_pm25=15.13 country_dqi=100.00 tag=TRUSTED
+United States of America	cities=3 records=2040 avg_temp=8.56 avg_humidity=89.26 avg_precip=0.05 avg_pm25=6.13 country_dqi=100.00 tag=TRUSTED
+Uruguay	cities=1 records=2061 avg_temp=14.60 avg_humidity=86.73 avg_precip=0.08 avg_pm25=11.92 country_dqi=100.00 tag=TRUSTED
+Uzbekistan	cities=1 records=2067 avg_temp=21.75 avg_humidity=35.45 avg_precip=0.05 avg_pm25=24.40 country_dqi=100.00 tag=TRUSTED
+Vanuatu	cities=1 records=2064 avg_temp=25.11 avg_humidity=86.27 avg_precip=0.24 avg_pm25=8.88 country_dqi=100.00 tag=TRUSTED
+Vatican City	cities=1 records=2067 avg_temp=18.62 avg_humidity=66.60 avg_precip=0.08 avg_pm25=17.16 country_dqi=100.00 tag=TRUSTED
+Venezuela	cities=1 records=2058 avg_temp=22.99 avg_humidity=82.50 avg_precip=0.08 avg_pm25=15.41 country_dqi=100.00 tag=TRUSTED
+Vietnam	cities=4 records=3405 avg_temp=26.87 avg_humidity=68.80 avg_precip=0.28 avg_pm25=59.29 country_dqi=91.00 tag=POOR
+Yemen	cities=1 records=2064 avg_temp=22.08 avg_humidity=24.86 avg_precip=0.04 avg_pm25=24.15 country_dqi=100.00 tag=TRUSTED
+Zambia	cities=1 records=2064 avg_temp=24.35 avg_humidity=48.01 avg_precip=0.11 avg_pm25=11.89 country_dqi=100.00 tag=TRUSTED
+Zimbabwe	cities=1 records=2058 avg_temp=23.20 avg_humidity=43.12 avg_precip=0.10 avg_pm25=17.89 country_dqi=100.00 tag=TRUSTED
+Гватемала	cities=1 records=3 avg_temp=15.90 avg_humidity=95.00 avg_precip=0.00 avg_pm25=40.80 country_dqi=91.00 tag=POOR
+Польша	cities=1 records=3 avg_temp=24.20 avg_humidity=56.00 avg_precip=0.00 avg_pm25=2.50 country_dqi=100.00 tag=TRUSTED
+Турция	cities=1 records=3 avg_temp=34.00 avg_humidity=44.00 avg_precip=0.00 avg_pm25=11.30 country_dqi=100.00 tag=TRUSTED
+كولومبيا	cities=1 records=3 avg_temp=23.10 avg_humidity=95.00 avg_precip=0.05 avg_pm25=0.50 country_dqi=100.00 tag=TRUSTED
+火鸡	cities=1 records=3 avg_temp=29.70 avg_humidity=24.00 avg_precip=0.00 avg_pm25=3.00 country_dqi=100.00 tag=TRUSTED

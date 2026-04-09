@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Weather Data Quality Audit Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: Arial, sans-serif; background: #0f172a; color: #e2e8f0; }
+        header { background: #1e293b; padding: 20px 40px; border-bottom: 2px solid #3b82f6; }
+        header h1 { color: #3b82f6; font-size: 22px; }
+        header p { color: #94a3b8; font-size: 13px; margin-top: 4px; }
+        .section-title { color: #3b82f6; font-size: 16px; font-weight: bold;
+                         padding: 20px 40px 0; border-top: 1px solid #1e293b; margin-top: 10px; }
+        .stats { display: flex; gap: 16px; padding: 16px 40px; }
+        .stat-card { flex: 1; background: #1e293b; border-radius: 10px; padding: 16px;
+                     text-align: center; }
+        .stat-card h2 { font-size: 30px; }
+        .stat-card p { color: #94a3b8; font-size: 13px; margin-top: 4px; }
+        .stat-card.blue h2   { color: #3b82f6; border-left: 4px solid #3b82f6; }
+        .stat-card.green h2  { color: #22c55e; }
+        .stat-card.yellow h2 { color: #f59e0b; }
+        .stat-card.red h2    { color: #ef4444; }
+        .charts { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; padding: 16px 40px; }
+        .chart-box { background: #1e293b; border-radius: 10px; padding: 20px; }
+        .chart-box h3 { color: #94a3b8; margin-bottom: 14px; font-size: 14px; }
+        .chart-box.full { grid-column: span 2; }
+        canvas { max-height: 280px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🌦 Weather Data Quality Audit Dashboard</h1>
+        <p>Big Data–Driven Automated DQI | Hadoop MapReduce (3 Jobs) + HBase + Flask</p>
+    </header>
+
+    <!-- JOB 1: DQI -->
+    <div class="section-title">📊 Job 1 — Data Quality Index (DQI) Audit</div>
+    <div class="stats">
+        <div class="stat-card blue"><h2 id="totalCities">-</h2><p>Total Cities Audited</p></div>
+        <div class="stat-card green"><h2 id="trustedCount">-</h2><p>TRUSTED Cities</p></div>
+        <div class="stat-card yellow"><h2 id="moderateCount">-</h2><p>MODERATE Cities</p></div>
+        <div class="stat-card red"><h2 id="poorCount">-</h2><p>POOR Cities</p></div>
+    </div>
+    <div class="charts">
+        <div class="chart-box">
+            <h3>🥧 DQI Quality Distribution</h3>
+            <canvas id="pieChart"></canvas>
+        </div>
+        <div class="chart-box">
+            <h3>📈 DQI Score by City (Top 20)</h3>
+            <canvas id="barChart"></canvas>
+        </div>
+        <div class="chart-box full">
+            <h3>📉 Completeness vs Consistency vs Outlier (Top 30 Cities)</h3>
+            <canvas id="lineChart"></canvas>
+        </div>
+    </div>
+
+    <!-- JOB 2: ANOMALY -->
+    <div class="section-title">🚨 Job 2 — Anomaly Detection</div>
+    <div class="stats">
+        <div class="stat-card green"><h2 id="normalCount">-</h2><p>NORMAL Cities</p></div>
+        <div class="stat-card yellow"><h2 id="mediumCount">-</h2><p>MEDIUM ANOMALY</p></div>
+        <div class="stat-card red"><h2 id="highCount">-</h2><p>HIGH ANOMALY</p></div>
+    </div>
+    <div class="charts">
+        <div class="chart-box">
+            <h3>🥧 Anomaly Status Distribution</h3>
+            <canvas id="anomalyPie"></canvas>
+        </div>
+        <div class="chart-box">
+            <h3>📊 Top 20 Cities by Anomaly Rate</h3>
+            <canvas id="anomalyBar"></canvas>
+        </div>
+    </div>
+
+    <!-- JOB 3: COUNTRY -->
+    <div class="section-title">🌍 Job 3 — Country Level Aggregation</div>
+    <div class="stats">
+        <div class="stat-card blue"><h2 id="totalCountries">-</h2><p>Total Countries</p></div>
+        <div class="stat-card green"><h2 id="countryTrusted">-</h2><p>TRUSTED Countries</p></div>
+        <div class="stat-card yellow"><h2 id="countryModerate">-</h2><p>MODERATE Countries</p></div>
+        <div class="stat-card red"><h2 id="countryPoor">-</h2><p>POOR Countries</p></div>
+    </div>
+    <div class="charts">
+        <div class="chart-box full">
+            <h3>🌡️ Avg Temperature by Country (Top 30)</h3>
+            <canvas id="countryTemp"></canvas>
+        </div>
+        <div class="chart-box full">
+            <h3>💨 Avg PM2.5 by Country (Top 30)</h3>
+            <canvas id="countryPm25"></canvas>
+        </div>
+    </div>
+
+    <script>
+    async function loadDashboard() {
+
+        // ── JOB 1 ──────────────────────────────────────────────
+        const s = await (await fetch('/api/summary')).json();
+        const total = s.tags.TRUSTED + s.tags.MODERATE + s.tags.POOR;
+        document.getElementById('totalCities').textContent    = total;
+        document.getElementById('trustedCount').textContent   = s.tags.TRUSTED;
+        document.getElementById('moderateCount').textContent  = s.tags.MODERATE;
+        document.getElementById('poorCount').textContent      = s.tags.POOR;
+
+        new Chart(document.getElementById('pieChart'), {
+            type: 'pie',
+            data: {
+                labels: ['TRUSTED','MODERATE','POOR'],
+                datasets: [{ data: [s.tags.TRUSTED, s.tags.MODERATE, s.tags.POOR],
+                             backgroundColor: ['#22c55e','#f59e0b','#ef4444'] }]
+            },
+            options: { plugins: { legend: { labels: { color: '#e2e8f0' } } } }
+        });
+
+        new Chart(document.getElementById('barChart'), {
+            type: 'bar',
+            data: {
+                labels: s.labels.slice(0,20),
+                datasets: [{ label: 'DQI Score', data: s.scores.slice(0,20),
+                             backgroundColor: '#3b82f6' }]
+            },
+            options: {
+                scales: {
+                    x: { ticks: { color: '#94a3b8', maxRotation: 45 } },
+                    y: { ticks: { color: '#94a3b8' }, min: 0, max: 100 }
+                },
+                plugins: { legend: { labels: { color: '#e2e8f0' } } }
+            }
+        });
+
+        const detail = await (await fetch('/api/data')).json();
+        const cityNames = Object.keys(detail).slice(0,30);
+        new Chart(document.getElementById('lineChart'), {
+            type: 'line',
+            data: {
+                labels: cityNames,
+                datasets: [
+                    { label: 'Completeness', data: cityNames.map(c => parseFloat(detail[c].completeness||0)),
+                      borderColor: '#22c55e', fill: false, tension: 0.3 },
+                    { label: 'Consistency',  data: cityNames.map(c => parseFloat(detail[c].consistency||0)),
+                      borderColor: '#3b82f6', fill: false, tension: 0.3 },
+                    { label: 'Outlier Score',data: cityNames.map(c => parseFloat(detail[c].outlier||0)),
+                      borderColor: '#f59e0b', fill: false, tension: 0.3 }
+                ]
+            },
+            options: {
+                scales: {
+                    x: { ticks: { color: '#94a3b8', maxRotation: 45 } },
+                    y: { ticks: { color: '#94a3b8' }, min: 0, max: 100 }
+                },
+                plugins: { legend: { labels: { color: '#e2e8f0' } } }
+            }
+        });
+
+        // ── JOB 2 ──────────────────────────────────────────────
+        const a = await (await fetch('/api/anomaly')).json();
+        document.getElementById('normalCount').textContent  = a.statuses.NORMAL;
+        document.getElementById('mediumCount').textContent  = a.statuses.MEDIUM_ANOMALY;
+        document.getElementById('highCount').textContent    = a.statuses.HIGH_ANOMALY;
+
+        new Chart(document.getElementById('anomalyPie'), {
+            type: 'pie',
+            data: {
+                labels: ['NORMAL','MEDIUM ANOMALY','HIGH ANOMALY'],
+                datasets: [{ data: [a.statuses.NORMAL, a.statuses.MEDIUM_ANOMALY, a.statuses.HIGH_ANOMALY],
+                             backgroundColor: ['#22c55e','#f59e0b','#ef4444'] }]
+            },
+            options: { plugins: { legend: { labels: { color: '#e2e8f0' } } } }
+        });
+
+        new Chart(document.getElementById('anomalyBar'), {
+            type: 'bar',
+            data: {
+                labels: a.top_anomaly.map(x => x.city),
+                datasets: [{ label: 'Anomaly Rate %',
+                             data: a.top_anomaly.map(x => x.rate),
+                             backgroundColor: '#ef4444' }]
+            },
+            options: {
+                scales: {
+                    x: { ticks: { color: '#94a3b8', maxRotation: 45 } },
+                    y: { ticks: { color: '#94a3b8' } }
+                },
+                plugins: { legend: { labels: { color: '#e2e8f0' } } }
+            }
+        });
+
+        // ── JOB 3 ──────────────────────────────────────────────
+        const c = await (await fetch('/api/country')).json();
+        document.getElementById('totalCountries').textContent  = c.labels.length;
+        document.getElementById('countryTrusted').textContent  = c.tags.TRUSTED;
+        document.getElementById('countryModerate').textContent = c.tags.MODERATE;
+        document.getElementById('countryPoor').textContent     = c.tags.POOR;
+
+        new Chart(document.getElementById('countryTemp'), {
+            type: 'bar',
+            data: {
+                labels: c.labels.slice(0,30),
+                datasets: [{ label: 'Avg Temp (°C)',
+                             data: c.temps.slice(0,30),
+                             backgroundColor: '#f59e0b' }]
+            },
+            options: {
+                scales: {
+                    x: { ticks: { color: '#94a3b8', maxRotation: 45 } },
+                    y: { ticks: { color: '#94a3b8' } }
+                },
+                plugins: { legend: { labels: { color: '#e2e8f0' } } }
+            }
+        });
+
+        new Chart(document.getElementById('countryPm25'), {
+            type: 'bar',
+            data: {
+                labels: c.labels.slice(0,30),
+                datasets: [{ label: 'Avg PM2.5',
+                             data: c.pm25s.slice(0,30),
+                             backgroundColor: '#8b5cf6' }]
+            },
+            options: {
+                scales: {
+                    x: { ticks: { color: '#94a3b8', maxRotation: 45 } },
+                    y: { ticks: { color: '#94a3b8' } }
+                },
+                plugins: { legend: { labels: { color: '#e2e8f0' } } }
+            }
+        });
+    }
+
+    loadDashboard();
+    </script>
+</body>
+</html>

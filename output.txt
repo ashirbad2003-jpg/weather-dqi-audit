@@ -1,0 +1,257 @@
+'S Gravenjansdijk	completeness=100.00 consistency=100.00 outlier=88.69 DQI=97.17 tag=MODERATE
+'S Gravenjansdyk	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+'S Gravenstaffel	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+'S-Gravenbrakel	completeness=100.00 consistency=100.00 outlier=99.50 DQI=99.87 tag=TRUSTED
+-Kingdom	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Abu Dhabi	completeness=100.00 consistency=99.80 outlier=65.66 DQI=91.34 tag=POOR
+Abuja	completeness=100.00 consistency=100.00 outlier=64.83 DQI=91.21 tag=POOR
+Accra	completeness=100.00 consistency=100.00 outlier=87.12 DQI=96.78 tag=MODERATE
+Addis Ababa	completeness=100.00 consistency=100.00 outlier=74.02 DQI=93.50 tag=MODERATE
+Addis Abeba	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Adkip	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Aguaray	completeness=100.00 consistency=100.00 outlier=98.01 DQI=99.50 tag=TRUSTED
+Airai	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Algiers	completeness=100.00 consistency=100.00 outlier=93.44 DQI=98.36 tag=TRUSTED
+Amman	completeness=100.00 consistency=99.97 outlier=96.99 DQI=99.24 tag=TRUSTED
+Amsterdam	completeness=100.00 consistency=100.00 outlier=89.72 DQI=97.43 tag=MODERATE
+Andorra La Vella	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Ankara	completeness=100.00 consistency=100.00 outlier=88.81 DQI=97.20 tag=MODERATE
+Antananarivo	completeness=100.00 consistency=100.00 outlier=97.42 DQI=99.36 tag=TRUSTED
+Apia	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Ar Riyadh	completeness=100.00 consistency=100.00 outlier=75.00 DQI=93.75 tag=MODERATE
+Ashgabat	completeness=100.00 consistency=100.00 outlier=85.70 DQI=96.42 tag=MODERATE
+Asmara	completeness=100.00 consistency=100.00 outlier=96.95 DQI=99.24 tag=TRUSTED
+Astana	completeness=100.00 consistency=99.97 outlier=87.66 DQI=96.91 tag=MODERATE
+Asuncion	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Athens	completeness=100.00 consistency=100.00 outlier=89.69 DQI=97.42 tag=MODERATE
+Aurora	completeness=100.00 consistency=100.00 outlier=94.27 DQI=98.57 tag=TRUSTED
+Bafoussam	completeness=100.00 consistency=100.00 outlier=95.83 DQI=98.96 tag=TRUSTED
+Baghdad	completeness=100.00 consistency=98.46 outlier=63.46 DQI=90.33 tag=POOR
+Baku	completeness=100.00 consistency=100.00 outlier=94.36 DQI=98.59 tag=TRUSTED
+Bali	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Bamako	completeness=100.00 consistency=100.00 outlier=88.03 DQI=97.01 tag=MODERATE
+Ban Lom	completeness=100.00 consistency=100.00 outlier=75.00 DQI=93.75 tag=MODERATE
+Bandar Seri Begawan	completeness=100.00 consistency=100.00 outlier=81.96 DQI=95.49 tag=MODERATE
+Bangkok	completeness=100.00 consistency=100.00 outlier=67.21 DQI=91.80 tag=POOR
+Bangui	completeness=100.00 consistency=100.00 outlier=80.53 DQI=95.13 tag=MODERATE
+Banjul	completeness=100.00 consistency=100.00 outlier=91.09 DQI=97.77 tag=MODERATE
+Basseterre	completeness=100.00 consistency=100.00 outlier=99.78 DQI=99.95 tag=TRUSTED
+Beijing	completeness=100.00 consistency=100.00 outlier=52.30 DQI=88.07 tag=POOR
+Beijing Shi	completeness=100.00 consistency=100.00 outlier=50.00 DQI=87.50 tag=POOR
+Beirut	completeness=100.00 consistency=100.00 outlier=84.59 DQI=96.15 tag=MODERATE
+Belgrade	completeness=100.00 consistency=100.00 outlier=87.79 DQI=96.95 tag=MODERATE
+Belmopan	completeness=100.00 consistency=100.00 outlier=99.85 DQI=99.96 tag=TRUSTED
+Berlin	completeness=100.00 consistency=100.00 outlier=92.15 DQI=98.04 tag=TRUSTED
+Bern	completeness=100.00 consistency=100.00 outlier=96.01 DQI=99.00 tag=TRUSTED
+Bishkek	completeness=100.00 consistency=99.97 outlier=84.24 DQI=96.05 tag=MODERATE
+Bissau	completeness=100.00 consistency=100.00 outlier=87.66 DQI=96.92 tag=MODERATE
+Bogot	completeness=100.00 consistency=100.00 outlier=95.41 DQI=98.85 tag=TRUSTED
+Bogota	completeness=100.00 consistency=100.00 outlier=75.00 DQI=93.75 tag=MODERATE
+Bras	completeness=100.00 consistency=100.00 outlier=96.63 DQI=99.16 tag=TRUSTED
+Bratislava	completeness=100.00 consistency=100.00 outlier=92.73 DQI=98.18 tag=TRUSTED
+Brazzaville	completeness=100.00 consistency=100.00 outlier=75.58 DQI=93.90 tag=MODERATE
+Bridgetown	completeness=100.00 consistency=100.00 outlier=99.42 DQI=99.85 tag=TRUSTED
+Brussels	completeness=100.00 consistency=100.00 outlier=91.08 DQI=97.77 tag=MODERATE
+Bucharest	completeness=100.00 consistency=100.00 outlier=86.70 DQI=96.67 tag=MODERATE
+Budapest	completeness=100.00 consistency=100.00 outlier=91.97 DQI=97.99 tag=MODERATE
+Buenos Aires	completeness=100.00 consistency=100.00 outlier=87.46 DQI=96.87 tag=MODERATE
+Bujumbura	completeness=100.00 consistency=100.00 outlier=79.64 DQI=94.91 tag=MODERATE
+Cairo	completeness=100.00 consistency=100.00 outlier=77.73 DQI=94.43 tag=MODERATE
+Canberra	completeness=100.00 consistency=100.00 outlier=99.85 DQI=99.96 tag=TRUSTED
+Caracas	completeness=100.00 consistency=100.00 outlier=77.11 DQI=94.28 tag=MODERATE
+Carreria	completeness=100.00 consistency=100.00 outlier=95.65 DQI=98.91 tag=TRUSTED
+Castries	completeness=100.00 consistency=100.00 outlier=99.45 DQI=99.86 tag=TRUSTED
+Chi Chi Khvar	completeness=100.00 consistency=100.00 outlier=87.23 DQI=96.81 tag=MODERATE
+Chi-Chi-Erh	completeness=100.00 consistency=99.44 outlier=100.00 DQI=99.81 tag=TRUSTED
+City Of San Marino	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Colombo	completeness=100.00 consistency=100.00 outlier=75.73 DQI=93.93 tag=MODERATE
+Conakry	completeness=100.00 consistency=100.00 outlier=87.01 DQI=96.75 tag=MODERATE
+Copenhagen	completeness=100.00 consistency=100.00 outlier=95.74 DQI=98.94 tag=TRUSTED
+Costa Rica	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Dakar	completeness=100.00 consistency=100.00 outlier=89.33 DQI=97.33 tag=MODERATE
+Damascus	completeness=100.00 consistency=100.00 outlier=94.69 DQI=98.67 tag=TRUSTED
+Dhaka	completeness=100.00 consistency=100.00 outlier=60.41 DQI=90.10 tag=POOR
+Dhidhdhoo	completeness=100.00 consistency=100.00 outlier=97.77 DQI=99.44 tag=TRUSTED
+Dili	completeness=100.00 consistency=100.00 outlier=99.89 DQI=99.97 tag=TRUSTED
+Djibouti	completeness=100.00 consistency=99.85 outlier=89.61 DQI=97.35 tag=MODERATE
+Dodoma	completeness=100.00 consistency=100.00 outlier=99.13 DQI=99.78 tag=TRUSTED
+Doha	completeness=100.00 consistency=99.62 outlier=62.50 DQI=90.49 tag=POOR
+Douala	completeness=100.00 consistency=100.00 outlier=91.27 DQI=97.82 tag=MODERATE
+Dublin	completeness=100.00 consistency=100.00 outlier=98.98 DQI=99.74 tag=TRUSTED
+Dushanbe	completeness=100.00 consistency=100.00 outlier=82.94 DQI=95.74 tag=MODERATE
+Felidhoo	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Freetown	completeness=100.00 consistency=100.00 outlier=89.23 DQI=97.31 tag=MODERATE
+Funafuti	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Gaborone	completeness=100.00 consistency=100.00 outlier=89.24 DQI=97.31 tag=MODERATE
+Garrapata	completeness=100.00 consistency=100.00 outlier=97.50 DQI=99.38 tag=TRUSTED
+Georgetown	completeness=100.00 consistency=100.00 outlier=99.67 DQI=99.92 tag=TRUSTED
+Grenada	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Grindavik	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Guatemala City	completeness=100.00 consistency=100.00 outlier=75.44 DQI=93.86 tag=MODERATE
+Hanoi	completeness=100.00 consistency=100.00 outlier=54.44 DQI=88.61 tag=POOR
+Harare	completeness=100.00 consistency=100.00 outlier=88.12 DQI=97.03 tag=MODERATE
+Havana	completeness=100.00 consistency=100.00 outlier=96.78 DQI=99.20 tag=TRUSTED
+Helsinki	completeness=100.00 consistency=99.97 outlier=98.15 DQI=99.53 tag=TRUSTED
+Ho Chi Minh City	completeness=100.00 consistency=100.00 outlier=50.00 DQI=87.50 tag=POOR
+Honiara	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Islamabad	completeness=100.00 consistency=100.00 outlier=56.89 DQI=89.22 tag=POOR
+Ivory	completeness=100.00 consistency=100.00 outlier=99.51 DQI=99.88 tag=TRUSTED
+Ivory Ivory Ban	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Jakarta	completeness=100.00 consistency=100.00 outlier=52.25 DQI=88.06 tag=POOR
+Jerusalem	completeness=100.00 consistency=100.00 outlier=97.20 DQI=99.30 tag=TRUSTED
+Juba	completeness=100.00 consistency=100.00 outlier=85.75 DQI=96.44 tag=MODERATE
+Kabul	completeness=100.00 consistency=100.00 outlier=75.33 DQI=93.83 tag=MODERATE
+Kampala	completeness=100.00 consistency=100.00 outlier=75.65 DQI=93.91 tag=MODERATE
+Kathmandu	completeness=100.00 consistency=100.00 outlier=61.83 DQI=90.46 tag=POOR
+Khartoum	completeness=100.00 consistency=100.00 outlier=73.36 DQI=93.34 tag=MODERATE
+Kigali	completeness=100.00 consistency=100.00 outlier=75.62 DQI=93.90 tag=MODERATE
+Kingston	completeness=100.00 consistency=100.00 outlier=76.86 DQI=94.21 tag=MODERATE
+Kingstown	completeness=100.00 consistency=100.00 outlier=99.53 DQI=99.88 tag=TRUSTED
+Kinshasa	completeness=100.00 consistency=100.00 outlier=75.66 DQI=93.91 tag=MODERATE
+Kiyabo	completeness=100.00 consistency=100.00 outlier=75.00 DQI=93.75 tag=MODERATE
+Koror	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Krasnyy Turkmenistan	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Kuala Lumpur	completeness=100.00 consistency=100.00 outlier=56.66 DQI=89.16 tag=POOR
+Kuwait	completeness=100.00 consistency=100.00 outlier=50.00 DQI=87.50 tag=POOR
+Kuwait City	completeness=100.00 consistency=98.37 outlier=59.04 DQI=89.19 tag=POOR
+Kyiv	completeness=100.00 consistency=100.00 outlier=92.56 DQI=98.14 tag=TRUSTED
+Laos	completeness=100.00 consistency=100.00 outlier=76.38 DQI=94.10 tag=MODERATE
+Libreville	completeness=100.00 consistency=100.00 outlier=83.04 DQI=95.76 tag=MODERATE
+Lilongwe	completeness=100.00 consistency=100.00 outlier=97.38 DQI=99.35 tag=TRUSTED
+Lima	completeness=100.00 consistency=100.00 outlier=82.39 DQI=95.60 tag=MODERATE
+Lisbon	completeness=100.00 consistency=100.00 outlier=96.94 DQI=99.24 tag=TRUSTED
+Ljubljana	completeness=100.00 consistency=100.00 outlier=89.53 DQI=97.38 tag=MODERATE
+Lom	completeness=100.00 consistency=100.00 outlier=98.73 DQI=99.68 tag=TRUSTED
+Lome	completeness=100.00 consistency=100.00 outlier=75.00 DQI=93.75 tag=MODERATE
+London	completeness=100.00 consistency=100.00 outlier=93.55 DQI=98.39 tag=TRUSTED
+Luanda	completeness=100.00 consistency=100.00 outlier=78.13 DQI=94.53 tag=MODERATE
+Lusaka	completeness=100.00 consistency=100.00 outlier=89.61 DQI=97.40 tag=MODERATE
+Luxembourg	completeness=100.00 consistency=100.00 outlier=95.74 DQI=98.93 tag=TRUSTED
+Madrid	completeness=100.00 consistency=100.00 outlier=94.73 DQI=98.68 tag=TRUSTED
+Majuro	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Malabo	completeness=100.00 consistency=100.00 outlier=92.74 DQI=98.19 tag=TRUSTED
+Male	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Managua	completeness=100.00 consistency=100.00 outlier=95.60 DQI=98.90 tag=TRUSTED
+Manama	completeness=100.00 consistency=99.97 outlier=61.99 DQI=90.49 tag=POOR
+Manila	completeness=100.00 consistency=100.00 outlier=74.53 DQI=93.63 tag=MODERATE
+Maputo	completeness=100.00 consistency=100.00 outlier=96.69 DQI=99.17 tag=TRUSTED
+Maseru	completeness=100.00 consistency=100.00 outlier=88.45 DQI=97.11 tag=MODERATE
+Mbabane	completeness=100.00 consistency=100.00 outlier=93.26 DQI=98.31 tag=TRUSTED
+Melbourne	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Mexico (Grupo Mexico)	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Mexico City	completeness=100.00 consistency=100.00 outlier=61.35 DQI=90.34 tag=POOR
+Meyungs	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Minsk	completeness=100.00 consistency=100.00 outlier=93.96 DQI=98.49 tag=TRUSTED
+Mogadishu	completeness=100.00 consistency=100.00 outlier=99.67 DQI=99.92 tag=TRUSTED
+Moldova	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Mombasa	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Monaco	completeness=100.00 consistency=100.00 outlier=99.67 DQI=99.92 tag=TRUSTED
+Monrovia	completeness=100.00 consistency=100.00 outlier=89.19 DQI=97.30 tag=MODERATE
+Montevideo	completeness=100.00 consistency=100.00 outlier=88.17 DQI=97.04 tag=MODERATE
+Morocco City	completeness=100.00 consistency=100.00 outlier=75.00 DQI=93.75 tag=MODERATE
+Moroni	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Moscow	completeness=100.00 consistency=99.97 outlier=69.08 DQI=92.26 tag=MODERATE
+Muscat	completeness=100.00 consistency=99.94 outlier=85.03 DQI=96.24 tag=MODERATE
+N'djamena	completeness=100.00 consistency=100.00 outlier=78.27 DQI=94.57 tag=MODERATE
+Nairobi	completeness=100.00 consistency=100.00 outlier=79.03 DQI=94.76 tag=MODERATE
+Nan	completeness=100.00 consistency=100.00 outlier=83.13 DQI=95.78 tag=MODERATE
+Nassau	completeness=100.00 consistency=100.00 outlier=99.85 DQI=99.96 tag=TRUSTED
+National	completeness=100.00 consistency=100.00 outlier=92.79 DQI=98.20 tag=TRUSTED
+New Delhi	completeness=100.00 consistency=100.00 outlier=51.27 DQI=87.82 tag=POOR
+New Guatemala	completeness=100.00 consistency=100.00 outlier=50.00 DQI=87.50 tag=POOR
+New York	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Ngaoundere	completeness=100.00 consistency=100.00 outlier=83.73 DQI=95.93 tag=MODERATE
+Niamey	completeness=100.00 consistency=100.00 outlier=87.14 DQI=96.78 tag=MODERATE
+Nicosia	completeness=100.00 consistency=100.00 outlier=99.35 DQI=99.84 tag=TRUSTED
+Norman Gardens	completeness=100.00 consistency=100.00 outlier=79.17 DQI=94.79 tag=MODERATE
+Nouakchott	completeness=100.00 consistency=100.00 outlier=84.57 DQI=96.14 tag=MODERATE
+Nuku'alofa	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Nuku`Aloia	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Oslo	completeness=100.00 consistency=100.00 outlier=89.94 DQI=97.49 tag=MODERATE
+Ottawa	completeness=100.00 consistency=100.00 outlier=90.93 DQI=97.73 tag=MODERATE
+Ouagadougou	completeness=100.00 consistency=100.00 outlier=77.51 DQI=94.38 tag=MODERATE
+Palau	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Palikir	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Panama City	completeness=100.00 consistency=100.00 outlier=82.12 DQI=95.53 tag=MODERATE
+Paramaribo	completeness=100.00 consistency=100.00 outlier=99.67 DQI=99.92 tag=TRUSTED
+Paris	completeness=100.00 consistency=100.00 outlier=86.32 DQI=96.58 tag=MODERATE
+Pasto	completeness=100.00 consistency=100.00 outlier=99.00 DQI=99.75 tag=TRUSTED
+Pathein	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Phnom Penh	completeness=100.00 consistency=100.00 outlier=76.09 DQI=94.02 tag=MODERATE
+Phnum Penh	completeness=100.00 consistency=100.00 outlier=75.00 DQI=93.75 tag=MODERATE
+Podgorica	completeness=100.00 consistency=100.00 outlier=95.99 DQI=99.00 tag=TRUSTED
+Port Louis	completeness=100.00 consistency=100.00 outlier=99.96 DQI=99.99 tag=TRUSTED
+Port Moresby	completeness=100.00 consistency=100.00 outlier=99.96 DQI=99.99 tag=TRUSTED
+Port Of Spain	completeness=100.00 consistency=100.00 outlier=99.67 DQI=99.92 tag=TRUSTED
+Port Royal	completeness=100.00 consistency=100.00 outlier=77.20 DQI=94.30 tag=MODERATE
+Port Vila	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Port-Au-Prince	completeness=100.00 consistency=100.00 outlier=70.33 DQI=92.58 tag=MODERATE
+Porto-Novo	completeness=100.00 consistency=100.00 outlier=83.70 DQI=95.92 tag=MODERATE
+Prague	completeness=100.00 consistency=100.00 outlier=91.11 DQI=97.78 tag=MODERATE
+Praia	completeness=100.00 consistency=100.00 outlier=95.02 DQI=98.76 tag=TRUSTED
+Pretoria	completeness=100.00 consistency=100.00 outlier=82.23 DQI=95.56 tag=MODERATE
+Pristina	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Pyongyang	completeness=100.00 consistency=100.00 outlier=72.85 DQI=93.21 tag=MODERATE
+Quito	completeness=100.00 consistency=100.00 outlier=75.00 DQI=93.75 tag=MODERATE
+Rabat	completeness=100.00 consistency=100.00 outlier=99.16 DQI=99.79 tag=TRUSTED
+Rangoon	completeness=100.00 consistency=100.00 outlier=72.58 DQI=93.15 tag=MODERATE
+Reykjavik	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Riga	completeness=100.00 consistency=100.00 outlier=95.92 DQI=98.98 tag=TRUSTED
+Riyadh	completeness=100.00 consistency=99.65 outlier=58.41 DQI=89.48 tag=POOR
+Rome	completeness=100.00 consistency=100.00 outlier=94.44 DQI=98.61 tag=TRUSTED
+Roseau	completeness=100.00 consistency=100.00 outlier=99.49 DQI=99.87 tag=TRUSTED
+S-Chanf	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+S. Manian	completeness=100.00 consistency=100.00 outlier=94.44 DQI=98.61 tag=TRUSTED
+Saint George's	completeness=100.00 consistency=100.00 outlier=99.56 DQI=99.89 tag=TRUSTED
+Saint John's	completeness=100.00 consistency=100.00 outlier=99.49 DQI=99.87 tag=TRUSTED
+Saint Petersburg	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+San Ignacio	completeness=100.00 consistency=100.00 outlier=86.05 DQI=96.51 tag=MODERATE
+San Jose	completeness=100.00 consistency=100.00 outlier=92.26 DQI=98.06 tag=TRUSTED
+San Juan	completeness=100.00 consistency=100.00 outlier=70.31 DQI=92.58 tag=MODERATE
+San Marino	completeness=100.00 consistency=100.00 outlier=95.62 DQI=98.91 tag=TRUSTED
+San Salvador	completeness=100.00 consistency=100.00 outlier=82.27 DQI=95.57 tag=MODERATE
+Sanaa	completeness=100.00 consistency=100.00 outlier=96.26 DQI=99.07 tag=TRUSTED
+Santiago	completeness=100.00 consistency=100.00 outlier=58.50 DQI=89.63 tag=POOR
+Santo Domingo	completeness=100.00 consistency=100.00 outlier=90.73 DQI=97.68 tag=MODERATE
+Sao Paulo	completeness=100.00 consistency=100.00 outlier=75.00 DQI=93.75 tag=MODERATE
+Sarajevo	completeness=100.00 consistency=100.00 outlier=88.66 DQI=97.17 tag=MODERATE
+Sartorio	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Seoul	completeness=100.00 consistency=100.00 outlier=64.59 DQI=91.15 tag=POOR
+Singapore	completeness=100.00 consistency=100.00 outlier=76.49 DQI=94.12 tag=MODERATE
+Skopje	completeness=100.00 consistency=100.00 outlier=91.03 DQI=97.76 tag=MODERATE
+Sofia	completeness=100.00 consistency=100.00 outlier=88.06 DQI=97.02 tag=MODERATE
+Stockholm	completeness=100.00 consistency=100.00 outlier=97.63 DQI=99.41 tag=TRUSTED
+Sucre	completeness=100.00 consistency=100.00 outlier=96.08 DQI=99.02 tag=TRUSTED
+Surabaya	completeness=100.00 consistency=100.00 outlier=75.00 DQI=93.75 tag=MODERATE
+Suva	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Tallinn	completeness=100.00 consistency=99.97 outlier=98.47 DQI=99.61 tag=TRUSTED
+Tarawa	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Tashkent	completeness=100.00 consistency=100.00 outlier=81.17 DQI=95.29 tag=MODERATE
+Tbilisi	completeness=100.00 consistency=100.00 outlier=95.40 DQI=98.85 tag=TRUSTED
+Tegucigalpa	completeness=100.00 consistency=99.97 outlier=89.24 DQI=97.30 tag=MODERATE
+Tehran	completeness=100.00 consistency=99.97 outlier=59.35 DQI=89.83 tag=POOR
+Thimphu	completeness=100.00 consistency=100.00 outlier=91.33 DQI=97.83 tag=MODERATE
+Tirana	completeness=100.00 consistency=100.00 outlier=98.69 DQI=99.67 tag=TRUSTED
+Tokyo	completeness=100.00 consistency=100.00 outlier=70.65 DQI=92.66 tag=MODERATE
+Tripoli	completeness=100.00 consistency=100.00 outlier=75.00 DQI=93.75 tag=MODERATE
+Tunis	completeness=100.00 consistency=100.00 outlier=93.08 DQI=98.27 tag=TRUSTED
+Ulaanbaatar	completeness=100.00 consistency=100.00 outlier=84.97 DQI=96.24 tag=MODERATE
+Vaduz	completeness=100.00 consistency=100.00 outlier=99.56 DQI=99.89 tag=TRUSTED
+Valletta	completeness=100.00 consistency=100.00 outlier=98.08 DQI=99.52 tag=TRUSTED
+Vatican City	completeness=100.00 consistency=100.00 outlier=94.27 DQI=98.57 tag=TRUSTED
+Vestmannaeyjar	completeness=100.00 consistency=99.95 outlier=100.00 DQI=99.98 tag=TRUSTED
+Victoria	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Vienna	completeness=100.00 consistency=100.00 outlier=90.52 DQI=97.63 tag=MODERATE
+Vientiane	completeness=100.00 consistency=100.00 outlier=75.00 DQI=93.75 tag=MODERATE
+Vilnius	completeness=100.00 consistency=100.00 outlier=97.49 DQI=99.37 tag=TRUSTED
+Warsaw	completeness=100.00 consistency=100.00 outlier=86.97 DQI=96.74 tag=MODERATE
+Washington Harbor	completeness=100.00 consistency=100.00 outlier=98.68 DQI=99.67 tag=TRUSTED
+Washington Park	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Wellington	completeness=100.00 consistency=100.00 outlier=100.00 DQI=100.00 tag=TRUSTED
+Windhoek	completeness=100.00 consistency=100.00 outlier=98.69 DQI=99.67 tag=TRUSTED
+Yamoussoukro	completeness=100.00 consistency=100.00 outlier=99.45 DQI=99.86 tag=TRUSTED
+Yangon	completeness=100.00 consistency=100.00 outlier=72.88 DQI=93.22 tag=MODERATE
+Yaounde	completeness=100.00 consistency=100.00 outlier=96.88 DQI=99.22 tag=TRUSTED
+Yaren	completeness=100.00 consistency=100.00 outlier=93.49 DQI=98.37 tag=TRUSTED
+Yerevan	completeness=100.00 consistency=100.00 outlier=98.18 DQI=99.55 tag=TRUSTED
+Zagreb	completeness=100.00 consistency=100.00 outlier=89.93 DQI=97.48 tag=MODERATE
